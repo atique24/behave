@@ -1,0 +1,9 @@
+behave --no-capture
+
+
+behave -f allure_behave.formatter:AllureFormatter -o "report path folder"
+behave -f allure_behave.formatter:AllureFormatter -o allure-report\
+
+or
+
+behave -f allure_behave.formatter:AllureFormatter -o {allure_report_folder} {path_to_feature_file}

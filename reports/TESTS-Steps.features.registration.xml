@@ -1,0 +1,375 @@
+<testsuite name="Steps.features.registration.Registration" tests="2" errors="0" failures="2" skipped="0" time="26.455837" timestamp="2021-04-15T17:34:47.155199" hostname="DESKTOP-U6SR4NP"><testcase classname="Steps.features.registration.Registration" name="New User Registration Functionality -- @1.1 " status="failed" time="13.205808"><failure type="AssertionError" message="">
+<![CDATA[
+Failing step: Then Registration is successfull. ... failed in 10.079s
+Location: Steps/features/registration.feature:9
+Traceback (most recent call last):
+  File "c:\users\atique\appdata\local\programs\python\python38-32\lib\site-packages\behave\model.py", line 1329, in run
+    match.run(runner.context)
+  File "c:\users\atique\appdata\local\programs\python\python38-32\lib\site-packages\behave\matchers.py", line 98, in run
+    self.func(context, *args, **kwargs)
+  File "steps\step_def_registration.py", line 40, in step_impl
+    assert context.account.success_message() == True
+AssertionError
+
+Captured stderr:
+  File "C:\Users\Atique\AppData\Local\Programs\Python\Python38-32\Lib\runpy.py", line 193, in _run_module_as_main
+    return _run_code(code, main_globals, None,
+  File "C:\Users\Atique\AppData\Local\Programs\Python\Python38-32\Lib\runpy.py", line 86, in _run_code
+    exec(code, run_globals)
+  File "C:\Users\Atique\AppData\Local\Programs\Python\Python38-32\Scripts\behave.exe\__main__.py", line 7, in <module>
+    sys.exit(main())
+  File "c:\users\atique\appdata\local\programs\python\python38-32\lib\site-packages\behave\__main__.py", line 183, in main
+    return run_behave(config)
+  File "c:\users\atique\appdata\local\programs\python\python38-32\lib\site-packages\behave\__main__.py", line 127, in run_behave
+    failed = runner.run()
+  File "c:\users\atique\appdata\local\programs\python\python38-32\lib\site-packages\behave\runner.py", line 804, in run
+    return self.run_with_paths()
+  File "c:\users\atique\appdata\local\programs\python\python38-32\lib\site-packages\behave\runner.py", line 824, in run_with_paths
+    return self.run_model()
+  File "c:\users\atique\appdata\local\programs\python\python38-32\lib\site-packages\behave\runner.py", line 626, in run_model
+    failed = feature.run(self)
+  File "c:\users\atique\appdata\local\programs\python\python38-32\lib\site-packages\behave\model.py", line 321, in run
+    failed = scenario.run(runner)
+  File "c:\users\atique\appdata\local\programs\python\python38-32\lib\site-packages\behave\model.py", line 1114, in run
+    failed = scenario.run(runner)
+  File "c:\users\atique\appdata\local\programs\python\python38-32\lib\site-packages\behave\model.py", line 711, in run
+    if not step.run(runner):
+  File "c:\users\atique\appdata\local\programs\python\python38-32\lib\site-packages\behave\model.py", line 1329, in run
+    match.run(runner.context)
+  File "c:\users\atique\appdata\local\programs\python\python38-32\lib\site-packages\behave\matchers.py", line 98, in run
+    self.func(context, *args, **kwargs)
+  File "steps\step_def_registration.py", line 40, in step_impl
+    assert context.account.success_message() == True
+  File "C:\Users\Atique\PycharmProjects\git-behave\pages\account_creation\account_creation.py", line 72, in success_message
+    return self.isElementDisplayed(self._success_message)
+  File "C:\Users\Atique\PycharmProjects\git-behave\base\selenium_driver.py", line 277, in isElementDisplayed
+    element = self.findElement(locator)
+  File "C:\Users\Atique\PycharmProjects\git-behave\base\selenium_driver.py", line 59, in findElement
+    print_stack()
+  File "C:\Users\Atique\AppData\Local\Programs\Python\Python38-32\Lib\runpy.py", line 193, in _run_module_as_main
+    return _run_code(code, main_globals, None,
+  File "C:\Users\Atique\AppData\Local\Programs\Python\Python38-32\Lib\runpy.py", line 86, in _run_code
+    exec(code, run_globals)
+  File "C:\Users\Atique\AppData\Local\Programs\Python\Python38-32\Scripts\behave.exe\__main__.py", line 7, in <module>
+    sys.exit(main())
+  File "c:\users\atique\appdata\local\programs\python\python38-32\lib\site-packages\behave\__main__.py", line 183, in main
+    return run_behave(config)
+  File "c:\users\atique\appdata\local\programs\python\python38-32\lib\site-packages\behave\__main__.py", line 127, in run_behave
+    failed = runner.run()
+  File "c:\users\atique\appdata\local\programs\python\python38-32\lib\site-packages\behave\runner.py", line 804, in run
+    return self.run_with_paths()
+  File "c:\users\atique\appdata\local\programs\python\python38-32\lib\site-packages\behave\runner.py", line 824, in run_with_paths
+    return self.run_model()
+  File "c:\users\atique\appdata\local\programs\python\python38-32\lib\site-packages\behave\runner.py", line 626, in run_model
+    failed = feature.run(self)
+  File "c:\users\atique\appdata\local\programs\python\python38-32\lib\site-packages\behave\model.py", line 321, in run
+    failed = scenario.run(runner)
+  File "c:\users\atique\appdata\local\programs\python\python38-32\lib\site-packages\behave\model.py", line 1114, in run
+    failed = scenario.run(runner)
+  File "c:\users\atique\appdata\local\programs\python\python38-32\lib\site-packages\behave\model.py", line 711, in run
+    if not step.run(runner):
+  File "c:\users\atique\appdata\local\programs\python\python38-32\lib\site-packages\behave\model.py", line 1329, in run
+    match.run(runner.context)
+  File "c:\users\atique\appdata\local\programs\python\python38-32\lib\site-packages\behave\matchers.py", line 98, in run
+    self.func(context, *args, **kwargs)
+  File "steps\step_def_registration.py", line 40, in step_impl
+    assert context.account.success_message() == True
+  File "C:\Users\Atique\PycharmProjects\git-behave\pages\account_creation\account_creation.py", line 72, in success_message
+    return self.isElementDisplayed(self._success_message)
+  File "C:\Users\Atique\PycharmProjects\git-behave\base\selenium_driver.py", line 289, in isElementDisplayed
+    print_stack()
+
+Captured logging:
+INFO:Account:Element :: <selenium.webdriver.remote.webelement.WebElement (session="a172290d97b31eea56f9ba36cf9d3ba6", element="245077eb-92e2-49b3-b42c-0ab9241df7ab")>found for locator :: //a/span[text()='Account']
+INFO:Account:Clicked on Element : <selenium.webdriver.remote.webelement.WebElement (session="a172290d97b31eea56f9ba36cf9d3ba6", element="245077eb-92e2-49b3-b42c-0ab9241df7ab")>
+INFO:Account:Element :: <selenium.webdriver.remote.webelement.WebElement (session="a172290d97b31eea56f9ba36cf9d3ba6", element="177521ac-b974-41d1-9ee1-30c0d7e9de7b")>found for locator :: Register
+INFO:Account:Clicked on Element : <selenium.webdriver.remote.webelement.WebElement (session="a172290d97b31eea56f9ba36cf9d3ba6", element="177521ac-b974-41d1-9ee1-30c0d7e9de7b")>
+INFO:Account:Element :: <selenium.webdriver.remote.webelement.WebElement (session="a172290d97b31eea56f9ba36cf9d3ba6", element="7f424b26-8eba-4526-92f1-924fe16920f7")>found for locator :: firstname
+INFO:Account:Text : Test entered on locator: firstname
+INFO:Account:Element :: <selenium.webdriver.remote.webelement.WebElement (session="a172290d97b31eea56f9ba36cf9d3ba6", element="989b9c40-b6d1-492b-bc8c-796afc7d3a98")>found for locator :: lastname
+INFO:Account:Text : one entered on locator: lastname
+INFO:Account:Element :: <selenium.webdriver.remote.webelement.WebElement (session="a172290d97b31eea56f9ba36cf9d3ba6", element="f38cc2e9-2db7-4147-910c-09e67ccbe825")>found for locator :: email_address
+INFO:Account:Text : testfive@email.com entered on locator: email_address
+INFO:Account:Element :: <selenium.webdriver.remote.webelement.WebElement (session="a172290d97b31eea56f9ba36cf9d3ba6", element="31260b6a-db24-4db9-b622-8a6308c7c734")>found for locator :: password
+INFO:Account:Text : test@12345 entered on locator: password
+INFO:Account:Element :: <selenium.webdriver.remote.webelement.WebElement (session="a172290d97b31eea56f9ba36cf9d3ba6", element="ec66c6f2-0d73-4aef-92b7-490edad9ac20")>found for locator :: confirmation
+INFO:Account:Text : test@12345 entered on locator: confirmation
+INFO:Account:Element :: <selenium.webdriver.remote.webelement.WebElement (session="a172290d97b31eea56f9ba36cf9d3ba6", element="e07fab8f-0dda-44da-b10e-521fff91bf64")>found for locator :: is_subscribed
+INFO:Account:Clicked on Element : <selenium.webdriver.remote.webelement.WebElement (session="a172290d97b31eea56f9ba36cf9d3ba6", element="e07fab8f-0dda-44da-b10e-521fff91bf64")>
+INFO:Account:Element :: <selenium.webdriver.remote.webelement.WebElement (session="a172290d97b31eea56f9ba36cf9d3ba6", element="a945bf76-6939-426e-9714-351e73012ba6")>found for locator :: //button[@title='Register']
+INFO:Account:Clicked on Element : <selenium.webdriver.remote.webelement.WebElement (session="a172290d97b31eea56f9ba36cf9d3ba6", element="a945bf76-6939-426e-9714-351e73012ba6")>
+INFO:Account:Element could not be found for :: //span[text()='Thank you for registering with Main Website Store.']
+WARNING:Account:Exception occurred while executing isElementDisplayed :: exception occurred :: 'NoneType' object has no attribute 'is_displayed']]>
+</failure><system-out>
+<![CDATA[
+@scenario.begin
+  Scenario Outline: New User Registration Functionality -- @1.1 
+    Given I visit the guru99 Ecommerce website in Chrome ... passed in 0.002s
+    When I click on ACCOUNT ... passed in 0.110s
+    And I click on Register ... passed in 1.050s
+    And I provide the manadatory details Test, one, testfive@email.com, test@12345, test@12345 ... passed in 0.939s
+    And I click on Register button ... passed in 1.025s
+    Then Registration is successfull. ... failed in 10.079s
+
+@scenario.end
+--------------------------------------------------------------------------------
+]]>
+</system-out><system-err>
+<![CDATA[
+Captured stderr:
+  File "C:\Users\Atique\AppData\Local\Programs\Python\Python38-32\Lib\runpy.py", line 193, in _run_module_as_main
+    return _run_code(code, main_globals, None,
+  File "C:\Users\Atique\AppData\Local\Programs\Python\Python38-32\Lib\runpy.py", line 86, in _run_code
+    exec(code, run_globals)
+  File "C:\Users\Atique\AppData\Local\Programs\Python\Python38-32\Scripts\behave.exe\__main__.py", line 7, in <module>
+    sys.exit(main())
+  File "c:\users\atique\appdata\local\programs\python\python38-32\lib\site-packages\behave\__main__.py", line 183, in main
+    return run_behave(config)
+  File "c:\users\atique\appdata\local\programs\python\python38-32\lib\site-packages\behave\__main__.py", line 127, in run_behave
+    failed = runner.run()
+  File "c:\users\atique\appdata\local\programs\python\python38-32\lib\site-packages\behave\runner.py", line 804, in run
+    return self.run_with_paths()
+  File "c:\users\atique\appdata\local\programs\python\python38-32\lib\site-packages\behave\runner.py", line 824, in run_with_paths
+    return self.run_model()
+  File "c:\users\atique\appdata\local\programs\python\python38-32\lib\site-packages\behave\runner.py", line 626, in run_model
+    failed = feature.run(self)
+  File "c:\users\atique\appdata\local\programs\python\python38-32\lib\site-packages\behave\model.py", line 321, in run
+    failed = scenario.run(runner)
+  File "c:\users\atique\appdata\local\programs\python\python38-32\lib\site-packages\behave\model.py", line 1114, in run
+    failed = scenario.run(runner)
+  File "c:\users\atique\appdata\local\programs\python\python38-32\lib\site-packages\behave\model.py", line 711, in run
+    if not step.run(runner):
+  File "c:\users\atique\appdata\local\programs\python\python38-32\lib\site-packages\behave\model.py", line 1329, in run
+    match.run(runner.context)
+  File "c:\users\atique\appdata\local\programs\python\python38-32\lib\site-packages\behave\matchers.py", line 98, in run
+    self.func(context, *args, **kwargs)
+  File "steps\step_def_registration.py", line 40, in step_impl
+    assert context.account.success_message() == True
+  File "C:\Users\Atique\PycharmProjects\git-behave\pages\account_creation\account_creation.py", line 72, in success_message
+    return self.isElementDisplayed(self._success_message)
+  File "C:\Users\Atique\PycharmProjects\git-behave\base\selenium_driver.py", line 277, in isElementDisplayed
+    element = self.findElement(locator)
+  File "C:\Users\Atique\PycharmProjects\git-behave\base\selenium_driver.py", line 59, in findElement
+    print_stack()
+  File "C:\Users\Atique\AppData\Local\Programs\Python\Python38-32\Lib\runpy.py", line 193, in _run_module_as_main
+    return _run_code(code, main_globals, None,
+  File "C:\Users\Atique\AppData\Local\Programs\Python\Python38-32\Lib\runpy.py", line 86, in _run_code
+    exec(code, run_globals)
+  File "C:\Users\Atique\AppData\Local\Programs\Python\Python38-32\Scripts\behave.exe\__main__.py", line 7, in <module>
+    sys.exit(main())
+  File "c:\users\atique\appdata\local\programs\python\python38-32\lib\site-packages\behave\__main__.py", line 183, in main
+    return run_behave(config)
+  File "c:\users\atique\appdata\local\programs\python\python38-32\lib\site-packages\behave\__main__.py", line 127, in run_behave
+    failed = runner.run()
+  File "c:\users\atique\appdata\local\programs\python\python38-32\lib\site-packages\behave\runner.py", line 804, in run
+    return self.run_with_paths()
+  File "c:\users\atique\appdata\local\programs\python\python38-32\lib\site-packages\behave\runner.py", line 824, in run_with_paths
+    return self.run_model()
+  File "c:\users\atique\appdata\local\programs\python\python38-32\lib\site-packages\behave\runner.py", line 626, in run_model
+    failed = feature.run(self)
+  File "c:\users\atique\appdata\local\programs\python\python38-32\lib\site-packages\behave\model.py", line 321, in run
+    failed = scenario.run(runner)
+  File "c:\users\atique\appdata\local\programs\python\python38-32\lib\site-packages\behave\model.py", line 1114, in run
+    failed = scenario.run(runner)
+  File "c:\users\atique\appdata\local\programs\python\python38-32\lib\site-packages\behave\model.py", line 711, in run
+    if not step.run(runner):
+  File "c:\users\atique\appdata\local\programs\python\python38-32\lib\site-packages\behave\model.py", line 1329, in run
+    match.run(runner.context)
+  File "c:\users\atique\appdata\local\programs\python\python38-32\lib\site-packages\behave\matchers.py", line 98, in run
+    self.func(context, *args, **kwargs)
+  File "steps\step_def_registration.py", line 40, in step_impl
+    assert context.account.success_message() == True
+  File "C:\Users\Atique\PycharmProjects\git-behave\pages\account_creation\account_creation.py", line 72, in success_message
+    return self.isElementDisplayed(self._success_message)
+  File "C:\Users\Atique\PycharmProjects\git-behave\base\selenium_driver.py", line 289, in isElementDisplayed
+    print_stack()
+
+]]>
+</system-err></testcase><testcase classname="Steps.features.registration.Registration" name="New User Registration Functionality -- @1.2 " status="failed" time="13.25003"><failure type="AssertionError" message="">
+<![CDATA[
+Failing step: Then Registration is successfull. ... failed in 10.055s
+Location: Steps/features/registration.feature:9
+Traceback (most recent call last):
+  File "c:\users\atique\appdata\local\programs\python\python38-32\lib\site-packages\behave\model.py", line 1329, in run
+    match.run(runner.context)
+  File "c:\users\atique\appdata\local\programs\python\python38-32\lib\site-packages\behave\matchers.py", line 98, in run
+    self.func(context, *args, **kwargs)
+  File "steps\step_def_registration.py", line 40, in step_impl
+    assert context.account.success_message() == True
+AssertionError
+
+Captured stderr:
+  File "C:\Users\Atique\AppData\Local\Programs\Python\Python38-32\Lib\runpy.py", line 193, in _run_module_as_main
+    return _run_code(code, main_globals, None,
+  File "C:\Users\Atique\AppData\Local\Programs\Python\Python38-32\Lib\runpy.py", line 86, in _run_code
+    exec(code, run_globals)
+  File "C:\Users\Atique\AppData\Local\Programs\Python\Python38-32\Scripts\behave.exe\__main__.py", line 7, in <module>
+    sys.exit(main())
+  File "c:\users\atique\appdata\local\programs\python\python38-32\lib\site-packages\behave\__main__.py", line 183, in main
+    return run_behave(config)
+  File "c:\users\atique\appdata\local\programs\python\python38-32\lib\site-packages\behave\__main__.py", line 127, in run_behave
+    failed = runner.run()
+  File "c:\users\atique\appdata\local\programs\python\python38-32\lib\site-packages\behave\runner.py", line 804, in run
+    return self.run_with_paths()
+  File "c:\users\atique\appdata\local\programs\python\python38-32\lib\site-packages\behave\runner.py", line 824, in run_with_paths
+    return self.run_model()
+  File "c:\users\atique\appdata\local\programs\python\python38-32\lib\site-packages\behave\runner.py", line 626, in run_model
+    failed = feature.run(self)
+  File "c:\users\atique\appdata\local\programs\python\python38-32\lib\site-packages\behave\model.py", line 321, in run
+    failed = scenario.run(runner)
+  File "c:\users\atique\appdata\local\programs\python\python38-32\lib\site-packages\behave\model.py", line 1114, in run
+    failed = scenario.run(runner)
+  File "c:\users\atique\appdata\local\programs\python\python38-32\lib\site-packages\behave\model.py", line 711, in run
+    if not step.run(runner):
+  File "c:\users\atique\appdata\local\programs\python\python38-32\lib\site-packages\behave\model.py", line 1329, in run
+    match.run(runner.context)
+  File "c:\users\atique\appdata\local\programs\python\python38-32\lib\site-packages\behave\matchers.py", line 98, in run
+    self.func(context, *args, **kwargs)
+  File "steps\step_def_registration.py", line 40, in step_impl
+    assert context.account.success_message() == True
+  File "C:\Users\Atique\PycharmProjects\git-behave\pages\account_creation\account_creation.py", line 72, in success_message
+    return self.isElementDisplayed(self._success_message)
+  File "C:\Users\Atique\PycharmProjects\git-behave\base\selenium_driver.py", line 277, in isElementDisplayed
+    element = self.findElement(locator)
+  File "C:\Users\Atique\PycharmProjects\git-behave\base\selenium_driver.py", line 59, in findElement
+    print_stack()
+  File "C:\Users\Atique\AppData\Local\Programs\Python\Python38-32\Lib\runpy.py", line 193, in _run_module_as_main
+    return _run_code(code, main_globals, None,
+  File "C:\Users\Atique\AppData\Local\Programs\Python\Python38-32\Lib\runpy.py", line 86, in _run_code
+    exec(code, run_globals)
+  File "C:\Users\Atique\AppData\Local\Programs\Python\Python38-32\Scripts\behave.exe\__main__.py", line 7, in <module>
+    sys.exit(main())
+  File "c:\users\atique\appdata\local\programs\python\python38-32\lib\site-packages\behave\__main__.py", line 183, in main
+    return run_behave(config)
+  File "c:\users\atique\appdata\local\programs\python\python38-32\lib\site-packages\behave\__main__.py", line 127, in run_behave
+    failed = runner.run()
+  File "c:\users\atique\appdata\local\programs\python\python38-32\lib\site-packages\behave\runner.py", line 804, in run
+    return self.run_with_paths()
+  File "c:\users\atique\appdata\local\programs\python\python38-32\lib\site-packages\behave\runner.py", line 824, in run_with_paths
+    return self.run_model()
+  File "c:\users\atique\appdata\local\programs\python\python38-32\lib\site-packages\behave\runner.py", line 626, in run_model
+    failed = feature.run(self)
+  File "c:\users\atique\appdata\local\programs\python\python38-32\lib\site-packages\behave\model.py", line 321, in run
+    failed = scenario.run(runner)
+  File "c:\users\atique\appdata\local\programs\python\python38-32\lib\site-packages\behave\model.py", line 1114, in run
+    failed = scenario.run(runner)
+  File "c:\users\atique\appdata\local\programs\python\python38-32\lib\site-packages\behave\model.py", line 711, in run
+    if not step.run(runner):
+  File "c:\users\atique\appdata\local\programs\python\python38-32\lib\site-packages\behave\model.py", line 1329, in run
+    match.run(runner.context)
+  File "c:\users\atique\appdata\local\programs\python\python38-32\lib\site-packages\behave\matchers.py", line 98, in run
+    self.func(context, *args, **kwargs)
+  File "steps\step_def_registration.py", line 40, in step_impl
+    assert context.account.success_message() == True
+  File "C:\Users\Atique\PycharmProjects\git-behave\pages\account_creation\account_creation.py", line 72, in success_message
+    return self.isElementDisplayed(self._success_message)
+  File "C:\Users\Atique\PycharmProjects\git-behave\base\selenium_driver.py", line 289, in isElementDisplayed
+    print_stack()
+
+Captured logging:
+INFO:Account:Element :: <selenium.webdriver.remote.webelement.WebElement (session="0d1cd8c966de4b5b325cd605260e8451", element="de6d6fc1-3395-41d5-9b1e-ca325e8653e0")>found for locator :: //a/span[text()='Account']
+INFO:Account:Clicked on Element : <selenium.webdriver.remote.webelement.WebElement (session="0d1cd8c966de4b5b325cd605260e8451", element="de6d6fc1-3395-41d5-9b1e-ca325e8653e0")>
+INFO:Account:Element :: <selenium.webdriver.remote.webelement.WebElement (session="0d1cd8c966de4b5b325cd605260e8451", element="9a045185-036d-4cd6-a22f-947bbeb74ed7")>found for locator :: Register
+INFO:Account:Clicked on Element : <selenium.webdriver.remote.webelement.WebElement (session="0d1cd8c966de4b5b325cd605260e8451", element="9a045185-036d-4cd6-a22f-947bbeb74ed7")>
+INFO:Account:Element :: <selenium.webdriver.remote.webelement.WebElement (session="0d1cd8c966de4b5b325cd605260e8451", element="a075a639-1810-42cc-aa7c-795f11238d10")>found for locator :: firstname
+INFO:Account:Text : Test entered on locator: firstname
+INFO:Account:Element :: <selenium.webdriver.remote.webelement.WebElement (session="0d1cd8c966de4b5b325cd605260e8451", element="675599a4-3ab6-463b-a788-31b6fa8378db")>found for locator :: lastname
+INFO:Account:Text : two entered on locator: lastname
+INFO:Account:Element :: <selenium.webdriver.remote.webelement.WebElement (session="0d1cd8c966de4b5b325cd605260e8451", element="7642b50f-3518-46d2-9954-ffaee1b673a5")>found for locator :: email_address
+INFO:Account:Text : testsix@email.com entered on locator: email_address
+INFO:Account:Element :: <selenium.webdriver.remote.webelement.WebElement (session="0d1cd8c966de4b5b325cd605260e8451", element="83be413b-94cd-4bbb-939a-d4e90294000f")>found for locator :: password
+INFO:Account:Text : test@12345 entered on locator: password
+INFO:Account:Element :: <selenium.webdriver.remote.webelement.WebElement (session="0d1cd8c966de4b5b325cd605260e8451", element="b40c847f-928a-48b9-95b1-7a91e26a1966")>found for locator :: confirmation
+INFO:Account:Text : test@12345 entered on locator: confirmation
+INFO:Account:Element :: <selenium.webdriver.remote.webelement.WebElement (session="0d1cd8c966de4b5b325cd605260e8451", element="6b7f7a7b-2c31-46f3-9041-87e7a169cf64")>found for locator :: is_subscribed
+INFO:Account:Clicked on Element : <selenium.webdriver.remote.webelement.WebElement (session="0d1cd8c966de4b5b325cd605260e8451", element="6b7f7a7b-2c31-46f3-9041-87e7a169cf64")>
+INFO:Account:Element :: <selenium.webdriver.remote.webelement.WebElement (session="0d1cd8c966de4b5b325cd605260e8451", element="a0ae2c57-9eb1-440e-9082-7041cb2048aa")>found for locator :: //button[@title='Register']
+INFO:Account:Clicked on Element : <selenium.webdriver.remote.webelement.WebElement (session="0d1cd8c966de4b5b325cd605260e8451", element="a0ae2c57-9eb1-440e-9082-7041cb2048aa")>
+INFO:Account:Element could not be found for :: //span[text()='Thank you for registering with Main Website Store.']
+WARNING:Account:Exception occurred while executing isElementDisplayed :: exception occurred :: 'NoneType' object has no attribute 'is_displayed']]>
+</failure><system-out>
+<![CDATA[
+@scenario.begin
+  Scenario Outline: New User Registration Functionality -- @1.2 
+    Given I visit the guru99 Ecommerce website in Chrome ... passed in 0.001s
+    When I click on ACCOUNT ... passed in 0.111s
+    And I click on Register ... passed in 1.073s
+    And I provide the manadatory details Test, two, testsix@email.com, test@12345, test@12345 ... passed in 1.004s
+    And I click on Register button ... passed in 1.006s
+    Then Registration is successfull. ... failed in 10.055s
+
+@scenario.end
+--------------------------------------------------------------------------------
+]]>
+</system-out><system-err>
+<![CDATA[
+Captured stderr:
+  File "C:\Users\Atique\AppData\Local\Programs\Python\Python38-32\Lib\runpy.py", line 193, in _run_module_as_main
+    return _run_code(code, main_globals, None,
+  File "C:\Users\Atique\AppData\Local\Programs\Python\Python38-32\Lib\runpy.py", line 86, in _run_code
+    exec(code, run_globals)
+  File "C:\Users\Atique\AppData\Local\Programs\Python\Python38-32\Scripts\behave.exe\__main__.py", line 7, in <module>
+    sys.exit(main())
+  File "c:\users\atique\appdata\local\programs\python\python38-32\lib\site-packages\behave\__main__.py", line 183, in main
+    return run_behave(config)
+  File "c:\users\atique\appdata\local\programs\python\python38-32\lib\site-packages\behave\__main__.py", line 127, in run_behave
+    failed = runner.run()
+  File "c:\users\atique\appdata\local\programs\python\python38-32\lib\site-packages\behave\runner.py", line 804, in run
+    return self.run_with_paths()
+  File "c:\users\atique\appdata\local\programs\python\python38-32\lib\site-packages\behave\runner.py", line 824, in run_with_paths
+    return self.run_model()
+  File "c:\users\atique\appdata\local\programs\python\python38-32\lib\site-packages\behave\runner.py", line 626, in run_model
+    failed = feature.run(self)
+  File "c:\users\atique\appdata\local\programs\python\python38-32\lib\site-packages\behave\model.py", line 321, in run
+    failed = scenario.run(runner)
+  File "c:\users\atique\appdata\local\programs\python\python38-32\lib\site-packages\behave\model.py", line 1114, in run
+    failed = scenario.run(runner)
+  File "c:\users\atique\appdata\local\programs\python\python38-32\lib\site-packages\behave\model.py", line 711, in run
+    if not step.run(runner):
+  File "c:\users\atique\appdata\local\programs\python\python38-32\lib\site-packages\behave\model.py", line 1329, in run
+    match.run(runner.context)
+  File "c:\users\atique\appdata\local\programs\python\python38-32\lib\site-packages\behave\matchers.py", line 98, in run
+    self.func(context, *args, **kwargs)
+  File "steps\step_def_registration.py", line 40, in step_impl
+    assert context.account.success_message() == True
+  File "C:\Users\Atique\PycharmProjects\git-behave\pages\account_creation\account_creation.py", line 72, in success_message
+    return self.isElementDisplayed(self._success_message)
+  File "C:\Users\Atique\PycharmProjects\git-behave\base\selenium_driver.py", line 277, in isElementDisplayed
+    element = self.findElement(locator)
+  File "C:\Users\Atique\PycharmProjects\git-behave\base\selenium_driver.py", line 59, in findElement
+    print_stack()
+  File "C:\Users\Atique\AppData\Local\Programs\Python\Python38-32\Lib\runpy.py", line 193, in _run_module_as_main
+    return _run_code(code, main_globals, None,
+  File "C:\Users\Atique\AppData\Local\Programs\Python\Python38-32\Lib\runpy.py", line 86, in _run_code
+    exec(code, run_globals)
+  File "C:\Users\Atique\AppData\Local\Programs\Python\Python38-32\Scripts\behave.exe\__main__.py", line 7, in <module>
+    sys.exit(main())
+  File "c:\users\atique\appdata\local\programs\python\python38-32\lib\site-packages\behave\__main__.py", line 183, in main
+    return run_behave(config)
+  File "c:\users\atique\appdata\local\programs\python\python38-32\lib\site-packages\behave\__main__.py", line 127, in run_behave
+    failed = runner.run()
+  File "c:\users\atique\appdata\local\programs\python\python38-32\lib\site-packages\behave\runner.py", line 804, in run
+    return self.run_with_paths()
+  File "c:\users\atique\appdata\local\programs\python\python38-32\lib\site-packages\behave\runner.py", line 824, in run_with_paths
+    return self.run_model()
+  File "c:\users\atique\appdata\local\programs\python\python38-32\lib\site-packages\behave\runner.py", line 626, in run_model
+    failed = feature.run(self)
+  File "c:\users\atique\appdata\local\programs\python\python38-32\lib\site-packages\behave\model.py", line 321, in run
+    failed = scenario.run(runner)
+  File "c:\users\atique\appdata\local\programs\python\python38-32\lib\site-packages\behave\model.py", line 1114, in run
+    failed = scenario.run(runner)
+  File "c:\users\atique\appdata\local\programs\python\python38-32\lib\site-packages\behave\model.py", line 711, in run
+    if not step.run(runner):
+  File "c:\users\atique\appdata\local\programs\python\python38-32\lib\site-packages\behave\model.py", line 1329, in run
+    match.run(runner.context)
+  File "c:\users\atique\appdata\local\programs\python\python38-32\lib\site-packages\behave\matchers.py", line 98, in run
+    self.func(context, *args, **kwargs)
+  File "steps\step_def_registration.py", line 40, in step_impl
+    assert context.account.success_message() == True
+  File "C:\Users\Atique\PycharmProjects\git-behave\pages\account_creation\account_creation.py", line 72, in success_message
+    return self.isElementDisplayed(self._success_message)
+  File "C:\Users\Atique\PycharmProjects\git-behave\base\selenium_driver.py", line 289, in isElementDisplayed
+    print_stack()
+
+]]>
+</system-err></testcase></testsuite>

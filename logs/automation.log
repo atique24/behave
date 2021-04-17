@@ -1,0 +1,523 @@
+15:04:21 16:17:20: <module>: INFO: Automation Started
+15:04:21 16:17:26: WebDriverFactory: INFO: Launching the URL :: http://live.demoguru99.com/index.php/ on browser :: Chrome
+15:04:21 16:17:26: Account: INFO: Element could not be found for :: //a/span[text()='Account']
+15:04:21 16:17:26: Account: INFO: Clicked on Element : <selenium.webdriver.remote.webelement.WebElement (session="dfffa476ebab3c521538e9d7f28f6f23", element="c77656d8-f5ca-4427-b66c-d38b3da69fc1")>
+15:04:21 16:17:37: Account: INFO: Element could not be found for :: Register
+15:04:21 16:17:39: <module>: INFO: Automation Ended
+15:04:21 16:17:39: <module>: INFO: Automation Started
+15:04:21 16:17:42: WebDriverFactory: INFO: Launching the URL :: http://live.demoguru99.com/index.php/ on browser :: Chrome
+15:04:21 16:17:42: Account: INFO: Element could not be found for :: //a/span[text()='Account']
+15:04:21 16:17:44: <module>: INFO: Automation Ended
+15:04:21 16:19:23: <module>: INFO: Automation Started
+15:04:21 16:19:29: WebDriverFactory: INFO: Launching the URL :: http://live.demoguru99.com/index.php/ on browser :: Chrome
+15:04:21 16:19:29: Account: INFO: Element could not be found for :: //a/span[text()='Account']
+15:04:21 16:19:29: Account: INFO: Clicked on Element : <selenium.webdriver.remote.webelement.WebElement (session="f56e1f342f5f016c344ff816d920f311", element="de054173-1b3d-4fb2-b5c7-920dd2aa369a")>
+15:04:21 16:19:29: Account: INFO: Element could not be found for :: Register
+15:04:21 16:19:30: Account: INFO: Clicked on Element : <selenium.webdriver.remote.webelement.WebElement (session="f56e1f342f5f016c344ff816d920f311", element="acfe8057-68e7-4f28-8f18-e7dc13b8675f")>
+15:04:21 16:19:30: Account: INFO: Element could not be found for :: firstname
+15:04:21 16:19:32: <module>: INFO: Automation Ended
+15:04:21 16:19:32: <module>: INFO: Automation Started
+15:04:21 16:19:38: WebDriverFactory: INFO: Launching the URL :: http://live.demoguru99.com/index.php/ on browser :: Chrome
+15:04:21 16:19:38: Account: INFO: Element could not be found for :: //a/span[text()='Account']
+15:04:21 16:19:38: Account: INFO: Clicked on Element : <selenium.webdriver.remote.webelement.WebElement (session="0bf8b2a967ddee9004d08ef76de65640", element="1d69949d-b1aa-4fa4-a5cc-c73fbd4c51ec")>
+15:04:21 16:19:38: Account: INFO: Element could not be found for :: Register
+15:04:21 16:19:39: Account: INFO: Clicked on Element : <selenium.webdriver.remote.webelement.WebElement (session="0bf8b2a967ddee9004d08ef76de65640", element="96be3c67-5a45-4995-a8c9-7a50ab40aca6")>
+15:04:21 16:19:39: Account: INFO: Element could not be found for :: firstname
+15:04:21 16:19:42: <module>: INFO: Automation Ended
+15:04:21 16:21:44: <module>: INFO: Automation Started
+15:04:21 16:21:49: WebDriverFactory: INFO: Launching the URL :: http://live.demoguru99.com/index.php/ on browser :: Chrome
+15:04:21 16:21:49: Account: INFO: Element :: <selenium.webdriver.remote.webelement.WebElement (session="711a3c434ac269aa584ebe5aff48ff07", element="47355553-277e-4836-82df-542a76b2528a")>found for locator :: //a/span[text()='Account']
+15:04:21 16:21:50: Account: INFO: Clicked on Element : <selenium.webdriver.remote.webelement.WebElement (session="711a3c434ac269aa584ebe5aff48ff07", element="47355553-277e-4836-82df-542a76b2528a")>
+15:04:21 16:21:50: Account: INFO: Element :: <selenium.webdriver.remote.webelement.WebElement (session="711a3c434ac269aa584ebe5aff48ff07", element="c8c5bab2-1074-49db-b62c-3b83ac5ee157")>found for locator :: Register
+15:04:21 16:21:50: Account: INFO: Clicked on Element : <selenium.webdriver.remote.webelement.WebElement (session="711a3c434ac269aa584ebe5aff48ff07", element="c8c5bab2-1074-49db-b62c-3b83ac5ee157")>
+15:04:21 16:21:50: Account: INFO: Element :: <selenium.webdriver.remote.webelement.WebElement (session="711a3c434ac269aa584ebe5aff48ff07", element="a912ea50-03f3-4d23-be40-f4a1c792f060")>found for locator :: firstname
+15:04:21 16:21:53: <module>: INFO: Automation Ended
+15:04:21 16:21:53: <module>: INFO: Automation Started
+15:04:21 16:21:58: WebDriverFactory: INFO: Launching the URL :: http://live.demoguru99.com/index.php/ on browser :: Chrome
+15:04:21 16:21:58: Account: INFO: Element :: <selenium.webdriver.remote.webelement.WebElement (session="9a5031a67b20c035d4bc495af306994a", element="1d5be7d6-80f1-45db-8f79-2795d48736a6")>found for locator :: //a/span[text()='Account']
+15:04:21 16:21:58: Account: INFO: Clicked on Element : <selenium.webdriver.remote.webelement.WebElement (session="9a5031a67b20c035d4bc495af306994a", element="1d5be7d6-80f1-45db-8f79-2795d48736a6")>
+15:04:21 16:21:58: Account: INFO: Element :: <selenium.webdriver.remote.webelement.WebElement (session="9a5031a67b20c035d4bc495af306994a", element="b81854c8-603d-4210-af22-03a0b0b237e9")>found for locator :: Register
+15:04:21 16:21:59: Account: INFO: Clicked on Element : <selenium.webdriver.remote.webelement.WebElement (session="9a5031a67b20c035d4bc495af306994a", element="b81854c8-603d-4210-af22-03a0b0b237e9")>
+15:04:21 16:21:59: Account: INFO: Element :: <selenium.webdriver.remote.webelement.WebElement (session="9a5031a67b20c035d4bc495af306994a", element="d54dccdd-7394-44b9-890f-f225d1f989ab")>found for locator :: firstname
+15:04:21 16:22:02: <module>: INFO: Automation Ended
+15:04:21 16:23:29: <module>: INFO: Automation Started
+15:04:21 16:23:34: WebDriverFactory: INFO: Launching the URL :: http://live.demoguru99.com/index.php/ on browser :: Chrome
+15:04:21 16:23:34: Account: INFO: Element :: <selenium.webdriver.remote.webelement.WebElement (session="ec1286ac6ffedac3031004afc3e27e6a", element="88e09acd-bb9e-4636-9d63-a29c49a8c8d8")>found for locator :: //a/span[text()='Account']
+15:04:21 16:23:35: Account: INFO: Clicked on Element : <selenium.webdriver.remote.webelement.WebElement (session="ec1286ac6ffedac3031004afc3e27e6a", element="88e09acd-bb9e-4636-9d63-a29c49a8c8d8")>
+15:04:21 16:23:35: Account: INFO: Element :: <selenium.webdriver.remote.webelement.WebElement (session="ec1286ac6ffedac3031004afc3e27e6a", element="5711762d-4ba7-4ff8-b11d-8c2a392c89a6")>found for locator :: Register
+15:04:21 16:23:35: Account: INFO: Clicked on Element : <selenium.webdriver.remote.webelement.WebElement (session="ec1286ac6ffedac3031004afc3e27e6a", element="5711762d-4ba7-4ff8-b11d-8c2a392c89a6")>
+15:04:21 16:23:35: Account: INFO: Element :: <selenium.webdriver.remote.webelement.WebElement (session="ec1286ac6ffedac3031004afc3e27e6a", element="82507985-bfe8-4ce7-ad66-61f0d1f8df62")>found for locator :: firstname
+15:04:21 16:23:36: Account: INFO: Text : Test entered on locator: firstname
+15:04:21 16:23:36: Account: INFO: Element :: <selenium.webdriver.remote.webelement.WebElement (session="ec1286ac6ffedac3031004afc3e27e6a", element="b1a7a6b5-c483-48b9-b094-2d6f85f63947")>found for locator :: lastname
+15:04:21 16:23:36: Account: INFO: Text : one entered on locator: lastname
+15:04:21 16:23:36: Account: INFO: Element :: <selenium.webdriver.remote.webelement.WebElement (session="ec1286ac6ffedac3031004afc3e27e6a", element="efb7ab5b-2f43-4790-ade0-6bdc2dfdc591")>found for locator :: email_address
+15:04:21 16:23:36: Account: INFO: Text : testthree@email.com entered on locator: email_address
+15:04:21 16:23:36: Account: INFO: Element :: <selenium.webdriver.remote.webelement.WebElement (session="ec1286ac6ffedac3031004afc3e27e6a", element="83ae442b-d688-45ac-87b3-ca1bbb7edb78")>found for locator :: password
+15:04:21 16:23:36: Account: INFO: Text : test@12345 entered on locator: password
+15:04:21 16:23:36: Account: INFO: Element :: <selenium.webdriver.remote.webelement.WebElement (session="ec1286ac6ffedac3031004afc3e27e6a", element="f2e9e025-57a9-44db-b534-ae12558258d6")>found for locator :: confirmation
+15:04:21 16:23:36: Account: INFO: Text : test@12345 entered on locator: confirmation
+15:04:21 16:23:36: Account: INFO: Element :: <selenium.webdriver.remote.webelement.WebElement (session="ec1286ac6ffedac3031004afc3e27e6a", element="4248f222-3e30-4df0-abfb-9cf2fb4e7a14")>found for locator :: is_subscribed
+15:04:21 16:23:36: Account: INFO: Clicked on Element : <selenium.webdriver.remote.webelement.WebElement (session="ec1286ac6ffedac3031004afc3e27e6a", element="4248f222-3e30-4df0-abfb-9cf2fb4e7a14")>
+15:04:21 16:23:36: Account: INFO: Element :: <selenium.webdriver.remote.webelement.WebElement (session="ec1286ac6ffedac3031004afc3e27e6a", element="21cd9444-dd0e-44eb-9d79-3af90840a7e4")>found for locator :: //button[@title='Register']
+15:04:21 16:23:37: Account: INFO: Clicked on Element : <selenium.webdriver.remote.webelement.WebElement (session="ec1286ac6ffedac3031004afc3e27e6a", element="21cd9444-dd0e-44eb-9d79-3af90840a7e4")>
+15:04:21 16:23:47: Account: INFO: Element could not be found for :: //span[text()='Thank you for registering with Main Website Store.']
+15:04:21 16:23:47: Account: WARNING: Exception occured while executing isElementDisplayed :: exception occurred :: 'NoneType' object has no attribute 'is_displayed'
+15:04:21 16:23:50: <module>: INFO: Automation Ended
+15:04:21 16:23:50: <module>: INFO: Automation Started
+15:04:21 16:23:52: WebDriverFactory: INFO: Launching the URL :: http://live.demoguru99.com/index.php/ on browser :: Chrome
+15:04:21 16:23:52: Account: INFO: Element could not be found for :: //a/span[text()='Account']
+15:04:21 16:23:54: <module>: INFO: Automation Ended
+15:04:21 16:31:34: <module>: INFO: Automation Started
+15:04:21 16:31:39: WebDriverFactory: INFO: Launching the URL :: http://live.demoguru99.com/index.php/ on browser :: Chrome
+15:04:21 16:31:39: Account: INFO: Element :: <selenium.webdriver.remote.webelement.WebElement (session="4ac0e46d19e5c1a80f741e9f7a26e82d", element="ea937221-f09c-49a8-96fd-37059e45fa90")>found for locator :: //a/span[text()='Account']
+15:04:21 16:31:39: Account: INFO: Clicked on Element : <selenium.webdriver.remote.webelement.WebElement (session="4ac0e46d19e5c1a80f741e9f7a26e82d", element="ea937221-f09c-49a8-96fd-37059e45fa90")>
+15:04:21 16:31:39: Account: INFO: Element :: <selenium.webdriver.remote.webelement.WebElement (session="4ac0e46d19e5c1a80f741e9f7a26e82d", element="f36f3d20-6c86-4e1a-b0c2-7e8dd8a3b4cb")>found for locator :: Register
+15:04:21 16:31:40: Account: INFO: Clicked on Element : <selenium.webdriver.remote.webelement.WebElement (session="4ac0e46d19e5c1a80f741e9f7a26e82d", element="f36f3d20-6c86-4e1a-b0c2-7e8dd8a3b4cb")>
+15:04:21 16:31:40: Account: INFO: Element :: <selenium.webdriver.remote.webelement.WebElement (session="4ac0e46d19e5c1a80f741e9f7a26e82d", element="19fcbaed-ffc1-450c-8042-4e0be76b84bb")>found for locator :: firstname
+15:04:21 16:31:40: Account: INFO: Text : Test entered on locator: firstname
+15:04:21 16:31:40: Account: INFO: Element :: <selenium.webdriver.remote.webelement.WebElement (session="4ac0e46d19e5c1a80f741e9f7a26e82d", element="23bb8c97-9a20-48b9-ab72-9fc73a9d9690")>found for locator :: lastname
+15:04:21 16:31:40: Account: INFO: Text : one entered on locator: lastname
+15:04:21 16:31:40: Account: INFO: Element :: <selenium.webdriver.remote.webelement.WebElement (session="4ac0e46d19e5c1a80f741e9f7a26e82d", element="0ad5b1c7-f3a2-4004-9782-f317f7ec4fae")>found for locator :: email_address
+15:04:21 16:31:41: Account: INFO: Text : testfive@email.com entered on locator: email_address
+15:04:21 16:31:41: Account: INFO: Element :: <selenium.webdriver.remote.webelement.WebElement (session="4ac0e46d19e5c1a80f741e9f7a26e82d", element="98a812bd-ad84-435f-b411-f42bacace785")>found for locator :: password
+15:04:21 16:31:41: Account: INFO: Text : test@12345 entered on locator: password
+15:04:21 16:31:41: Account: INFO: Element :: <selenium.webdriver.remote.webelement.WebElement (session="4ac0e46d19e5c1a80f741e9f7a26e82d", element="6d6efeb0-05b3-4be3-8ce2-d338bffb55c0")>found for locator :: confirmation
+15:04:21 16:31:41: Account: INFO: Text : test@12345 entered on locator: confirmation
+15:04:21 16:31:41: Account: INFO: Element :: <selenium.webdriver.remote.webelement.WebElement (session="4ac0e46d19e5c1a80f741e9f7a26e82d", element="63716b75-08b5-41d3-8137-05c3996c2512")>found for locator :: is_subscribed
+15:04:21 16:31:41: Account: INFO: Clicked on Element : <selenium.webdriver.remote.webelement.WebElement (session="4ac0e46d19e5c1a80f741e9f7a26e82d", element="63716b75-08b5-41d3-8137-05c3996c2512")>
+15:04:21 16:31:41: Account: INFO: Element :: <selenium.webdriver.remote.webelement.WebElement (session="4ac0e46d19e5c1a80f741e9f7a26e82d", element="e8f513a9-405e-4b65-833a-fd1b24b63800")>found for locator :: //button[@title='Register']
+15:04:21 16:31:43: Account: INFO: Clicked on Element : <selenium.webdriver.remote.webelement.WebElement (session="4ac0e46d19e5c1a80f741e9f7a26e82d", element="e8f513a9-405e-4b65-833a-fd1b24b63800")>
+15:04:21 16:31:43: Account: INFO: Element :: <selenium.webdriver.remote.webelement.WebElement (session="4ac0e46d19e5c1a80f741e9f7a26e82d", element="bab92863-bf8d-47ba-a271-6979be4733f5")>found for locator :: //span[text()='Thank you for registering with Main Website Store.']
+15:04:21 16:31:43: Account: INFO: Element is displayed with locator :: //span[text()='Thank you for registering with Main Website Store.']
+15:04:21 16:31:46: <module>: INFO: Automation Ended
+15:04:21 16:31:46: <module>: INFO: Automation Started
+15:04:21 16:31:51: WebDriverFactory: INFO: Launching the URL :: http://live.demoguru99.com/index.php/ on browser :: Chrome
+15:04:21 16:31:51: Account: INFO: Element :: <selenium.webdriver.remote.webelement.WebElement (session="5e97c6e882db6ee3d8d8e1d9b1ca85b3", element="dfa98987-956d-4f2e-83b7-71430124d3f9")>found for locator :: //a/span[text()='Account']
+15:04:21 16:31:51: Account: INFO: Clicked on Element : <selenium.webdriver.remote.webelement.WebElement (session="5e97c6e882db6ee3d8d8e1d9b1ca85b3", element="dfa98987-956d-4f2e-83b7-71430124d3f9")>
+15:04:21 16:31:51: Account: INFO: Element :: <selenium.webdriver.remote.webelement.WebElement (session="5e97c6e882db6ee3d8d8e1d9b1ca85b3", element="72e5859a-aa63-481c-b64f-ee6e750a8137")>found for locator :: Register
+15:04:21 16:31:52: Account: INFO: Clicked on Element : <selenium.webdriver.remote.webelement.WebElement (session="5e97c6e882db6ee3d8d8e1d9b1ca85b3", element="72e5859a-aa63-481c-b64f-ee6e750a8137")>
+15:04:21 16:31:52: Account: INFO: Element :: <selenium.webdriver.remote.webelement.WebElement (session="5e97c6e882db6ee3d8d8e1d9b1ca85b3", element="9bd3231e-5212-4655-a47a-e3a80b93aa7c")>found for locator :: firstname
+15:04:21 16:31:52: Account: INFO: Text : Test entered on locator: firstname
+15:04:21 16:31:52: Account: INFO: Element :: <selenium.webdriver.remote.webelement.WebElement (session="5e97c6e882db6ee3d8d8e1d9b1ca85b3", element="0a7c0128-32cd-4d4b-984d-9a29ea436acb")>found for locator :: lastname
+15:04:21 16:31:52: Account: INFO: Text : two entered on locator: lastname
+15:04:21 16:31:52: Account: INFO: Element :: <selenium.webdriver.remote.webelement.WebElement (session="5e97c6e882db6ee3d8d8e1d9b1ca85b3", element="63ab037c-b72b-4c2f-90e9-211c683bfc6a")>found for locator :: email_address
+15:04:21 16:31:53: Account: INFO: Text : testsix@email.com entered on locator: email_address
+15:04:21 16:31:53: Account: INFO: Element :: <selenium.webdriver.remote.webelement.WebElement (session="5e97c6e882db6ee3d8d8e1d9b1ca85b3", element="e58f213a-e32f-416b-b87f-f6d12592f78f")>found for locator :: password
+15:04:21 16:31:53: Account: INFO: Text : test@12345 entered on locator: password
+15:04:21 16:31:53: Account: INFO: Element :: <selenium.webdriver.remote.webelement.WebElement (session="5e97c6e882db6ee3d8d8e1d9b1ca85b3", element="b85a7f8c-a19e-4b6c-bd40-cad090f4b102")>found for locator :: confirmation
+15:04:21 16:31:53: Account: INFO: Text : test@12345 entered on locator: confirmation
+15:04:21 16:31:53: Account: INFO: Element :: <selenium.webdriver.remote.webelement.WebElement (session="5e97c6e882db6ee3d8d8e1d9b1ca85b3", element="ef3f7535-667b-4d2a-b967-a0132f5e92fe")>found for locator :: is_subscribed
+15:04:21 16:31:53: Account: INFO: Clicked on Element : <selenium.webdriver.remote.webelement.WebElement (session="5e97c6e882db6ee3d8d8e1d9b1ca85b3", element="ef3f7535-667b-4d2a-b967-a0132f5e92fe")>
+15:04:21 16:31:53: Account: INFO: Element :: <selenium.webdriver.remote.webelement.WebElement (session="5e97c6e882db6ee3d8d8e1d9b1ca85b3", element="af8d4e5c-d84d-4202-9abc-32cc1b7e8077")>found for locator :: //button[@title='Register']
+15:04:21 16:31:54: Account: INFO: Clicked on Element : <selenium.webdriver.remote.webelement.WebElement (session="5e97c6e882db6ee3d8d8e1d9b1ca85b3", element="af8d4e5c-d84d-4202-9abc-32cc1b7e8077")>
+15:04:21 16:31:54: Account: INFO: Element :: <selenium.webdriver.remote.webelement.WebElement (session="5e97c6e882db6ee3d8d8e1d9b1ca85b3", element="22672cca-dfc7-46c7-b8c4-14c92e233125")>found for locator :: //span[text()='Thank you for registering with Main Website Store.']
+15:04:21 16:31:54: Account: INFO: Element is displayed with locator :: //span[text()='Thank you for registering with Main Website Store.']
+15:04:21 16:31:58: <module>: INFO: Automation Ended
+15:04:21 17:34:05: <module>: INFO: Automation Started
+15:04:21 17:34:10: WebDriverFactory: INFO: Launching the URL :: http://live.demoguru99.com/index.php/ on browser :: Chrome
+15:04:21 17:34:10: Account: INFO: Element :: <selenium.webdriver.remote.webelement.WebElement (session="a172290d97b31eea56f9ba36cf9d3ba6", element="245077eb-92e2-49b3-b42c-0ab9241df7ab")>found for locator :: //a/span[text()='Account']
+15:04:21 17:34:10: Account: INFO: Clicked on Element : <selenium.webdriver.remote.webelement.WebElement (session="a172290d97b31eea56f9ba36cf9d3ba6", element="245077eb-92e2-49b3-b42c-0ab9241df7ab")>
+15:04:21 17:34:10: Account: INFO: Element :: <selenium.webdriver.remote.webelement.WebElement (session="a172290d97b31eea56f9ba36cf9d3ba6", element="177521ac-b974-41d1-9ee1-30c0d7e9de7b")>found for locator :: Register
+15:04:21 17:34:11: Account: INFO: Clicked on Element : <selenium.webdriver.remote.webelement.WebElement (session="a172290d97b31eea56f9ba36cf9d3ba6", element="177521ac-b974-41d1-9ee1-30c0d7e9de7b")>
+15:04:21 17:34:11: Account: INFO: Element :: <selenium.webdriver.remote.webelement.WebElement (session="a172290d97b31eea56f9ba36cf9d3ba6", element="7f424b26-8eba-4526-92f1-924fe16920f7")>found for locator :: firstname
+15:04:21 17:34:11: Account: INFO: Text : Test entered on locator: firstname
+15:04:21 17:34:11: Account: INFO: Element :: <selenium.webdriver.remote.webelement.WebElement (session="a172290d97b31eea56f9ba36cf9d3ba6", element="989b9c40-b6d1-492b-bc8c-796afc7d3a98")>found for locator :: lastname
+15:04:21 17:34:12: Account: INFO: Text : one entered on locator: lastname
+15:04:21 17:34:12: Account: INFO: Element :: <selenium.webdriver.remote.webelement.WebElement (session="a172290d97b31eea56f9ba36cf9d3ba6", element="f38cc2e9-2db7-4147-910c-09e67ccbe825")>found for locator :: email_address
+15:04:21 17:34:12: Account: INFO: Text : testfive@email.com entered on locator: email_address
+15:04:21 17:34:12: Account: INFO: Element :: <selenium.webdriver.remote.webelement.WebElement (session="a172290d97b31eea56f9ba36cf9d3ba6", element="31260b6a-db24-4db9-b622-8a6308c7c734")>found for locator :: password
+15:04:21 17:34:12: Account: INFO: Text : test@12345 entered on locator: password
+15:04:21 17:34:12: Account: INFO: Element :: <selenium.webdriver.remote.webelement.WebElement (session="a172290d97b31eea56f9ba36cf9d3ba6", element="ec66c6f2-0d73-4aef-92b7-490edad9ac20")>found for locator :: confirmation
+15:04:21 17:34:12: Account: INFO: Text : test@12345 entered on locator: confirmation
+15:04:21 17:34:12: Account: INFO: Element :: <selenium.webdriver.remote.webelement.WebElement (session="a172290d97b31eea56f9ba36cf9d3ba6", element="e07fab8f-0dda-44da-b10e-521fff91bf64")>found for locator :: is_subscribed
+15:04:21 17:34:12: Account: INFO: Clicked on Element : <selenium.webdriver.remote.webelement.WebElement (session="a172290d97b31eea56f9ba36cf9d3ba6", element="e07fab8f-0dda-44da-b10e-521fff91bf64")>
+15:04:21 17:34:12: Account: INFO: Element :: <selenium.webdriver.remote.webelement.WebElement (session="a172290d97b31eea56f9ba36cf9d3ba6", element="a945bf76-6939-426e-9714-351e73012ba6")>found for locator :: //button[@title='Register']
+15:04:21 17:34:13: Account: INFO: Clicked on Element : <selenium.webdriver.remote.webelement.WebElement (session="a172290d97b31eea56f9ba36cf9d3ba6", element="a945bf76-6939-426e-9714-351e73012ba6")>
+15:04:21 17:34:23: Account: INFO: Element could not be found for :: //span[text()='Thank you for registering with Main Website Store.']
+15:04:21 17:34:23: Account: WARNING: Exception occurred while executing isElementDisplayed :: exception occurred :: 'NoneType' object has no attribute 'is_displayed'
+15:04:21 17:34:26: <module>: INFO: Automation Ended
+15:04:21 17:34:26: <module>: INFO: Automation Started
+15:04:21 17:34:31: WebDriverFactory: INFO: Launching the URL :: http://live.demoguru99.com/index.php/ on browser :: Chrome
+15:04:21 17:34:31: Account: INFO: Element :: <selenium.webdriver.remote.webelement.WebElement (session="0d1cd8c966de4b5b325cd605260e8451", element="de6d6fc1-3395-41d5-9b1e-ca325e8653e0")>found for locator :: //a/span[text()='Account']
+15:04:21 17:34:31: Account: INFO: Clicked on Element : <selenium.webdriver.remote.webelement.WebElement (session="0d1cd8c966de4b5b325cd605260e8451", element="de6d6fc1-3395-41d5-9b1e-ca325e8653e0")>
+15:04:21 17:34:31: Account: INFO: Element :: <selenium.webdriver.remote.webelement.WebElement (session="0d1cd8c966de4b5b325cd605260e8451", element="9a045185-036d-4cd6-a22f-947bbeb74ed7")>found for locator :: Register
+15:04:21 17:34:32: Account: INFO: Clicked on Element : <selenium.webdriver.remote.webelement.WebElement (session="0d1cd8c966de4b5b325cd605260e8451", element="9a045185-036d-4cd6-a22f-947bbeb74ed7")>
+15:04:21 17:34:32: Account: INFO: Element :: <selenium.webdriver.remote.webelement.WebElement (session="0d1cd8c966de4b5b325cd605260e8451", element="a075a639-1810-42cc-aa7c-795f11238d10")>found for locator :: firstname
+15:04:21 17:34:32: Account: INFO: Text : Test entered on locator: firstname
+15:04:21 17:34:33: Account: INFO: Element :: <selenium.webdriver.remote.webelement.WebElement (session="0d1cd8c966de4b5b325cd605260e8451", element="675599a4-3ab6-463b-a788-31b6fa8378db")>found for locator :: lastname
+15:04:21 17:34:33: Account: INFO: Text : two entered on locator: lastname
+15:04:21 17:34:33: Account: INFO: Element :: <selenium.webdriver.remote.webelement.WebElement (session="0d1cd8c966de4b5b325cd605260e8451", element="7642b50f-3518-46d2-9954-ffaee1b673a5")>found for locator :: email_address
+15:04:21 17:34:33: Account: INFO: Text : testsix@email.com entered on locator: email_address
+15:04:21 17:34:33: Account: INFO: Element :: <selenium.webdriver.remote.webelement.WebElement (session="0d1cd8c966de4b5b325cd605260e8451", element="83be413b-94cd-4bbb-939a-d4e90294000f")>found for locator :: password
+15:04:21 17:34:33: Account: INFO: Text : test@12345 entered on locator: password
+15:04:21 17:34:33: Account: INFO: Element :: <selenium.webdriver.remote.webelement.WebElement (session="0d1cd8c966de4b5b325cd605260e8451", element="b40c847f-928a-48b9-95b1-7a91e26a1966")>found for locator :: confirmation
+15:04:21 17:34:33: Account: INFO: Text : test@12345 entered on locator: confirmation
+15:04:21 17:34:33: Account: INFO: Element :: <selenium.webdriver.remote.webelement.WebElement (session="0d1cd8c966de4b5b325cd605260e8451", element="6b7f7a7b-2c31-46f3-9041-87e7a169cf64")>found for locator :: is_subscribed
+15:04:21 17:34:33: Account: INFO: Clicked on Element : <selenium.webdriver.remote.webelement.WebElement (session="0d1cd8c966de4b5b325cd605260e8451", element="6b7f7a7b-2c31-46f3-9041-87e7a169cf64")>
+15:04:21 17:34:33: Account: INFO: Element :: <selenium.webdriver.remote.webelement.WebElement (session="0d1cd8c966de4b5b325cd605260e8451", element="a0ae2c57-9eb1-440e-9082-7041cb2048aa")>found for locator :: //button[@title='Register']
+15:04:21 17:34:34: Account: INFO: Clicked on Element : <selenium.webdriver.remote.webelement.WebElement (session="0d1cd8c966de4b5b325cd605260e8451", element="a0ae2c57-9eb1-440e-9082-7041cb2048aa")>
+15:04:21 17:34:44: Account: INFO: Element could not be found for :: //span[text()='Thank you for registering with Main Website Store.']
+15:04:21 17:34:44: Account: WARNING: Exception occurred while executing isElementDisplayed :: exception occurred :: 'NoneType' object has no attribute 'is_displayed'
+15:04:21 17:34:47: <module>: INFO: Automation Ended
+15:04:21 18:54:44: <module>: INFO: Automation Started
+15:04:21 18:54:50: WebDriverFactory: INFO: Launching the URL :: http://live.demoguru99.com/index.php/ on browser :: Chrome
+15:04:21 18:54:50: Account: INFO: Element :: <selenium.webdriver.remote.webelement.WebElement (session="cff4b82b895cc6ed97cade2b0203dd0e", element="6fc4e939-e254-4634-b840-a7024ab5b389")>found for locator :: //a/span[text()='Account']
+15:04:21 18:54:50: Account: INFO: Clicked on Element : <selenium.webdriver.remote.webelement.WebElement (session="cff4b82b895cc6ed97cade2b0203dd0e", element="6fc4e939-e254-4634-b840-a7024ab5b389")>
+15:04:21 18:54:52: <module>: INFO: Automation Ended
+15:04:21 19:13:40: <module>: INFO: Automation Started
+15:04:21 19:13:46: WebDriverFactory: INFO: Launching the URL :: http://live.demoguru99.com/index.php/ on browser :: Chrome
+15:04:21 19:13:46: Account: INFO: Element :: <selenium.webdriver.remote.webelement.WebElement (session="5e79eaf928c13df21cc4d4d370d988a7", element="8168e37b-7347-4016-8dac-484d159de199")>found for locator :: //a/span[text()='Account']
+15:04:21 19:13:46: Account: INFO: Clicked on Element : <selenium.webdriver.remote.webelement.WebElement (session="5e79eaf928c13df21cc4d4d370d988a7", element="8168e37b-7347-4016-8dac-484d159de199")>
+15:04:21 19:13:48: <module>: INFO: Automation Ended
+15:04:21 19:16:20: <module>: INFO: Automation Started
+15:04:21 19:16:26: WebDriverFactory: INFO: Launching the URL :: http://live.demoguru99.com/index.php/ on browser :: Chrome
+15:04:21 19:16:26: Account: INFO: Element :: <selenium.webdriver.remote.webelement.WebElement (session="08456f90878865f0cdc1c3c7305d9ad2", element="46bb6bef-b8f4-40cc-8b2e-7ea0a98fe1b6")>found for locator :: //a/span[text()='Account']
+15:04:21 19:16:26: Account: INFO: Clicked on Element : <selenium.webdriver.remote.webelement.WebElement (session="08456f90878865f0cdc1c3c7305d9ad2", element="46bb6bef-b8f4-40cc-8b2e-7ea0a98fe1b6")>
+15:04:21 19:16:28: <module>: INFO: Automation Ended
+15:04:21 19:18:44: <module>: INFO: Automation Started
+15:04:21 19:18:50: WebDriverFactory: INFO: Launching the URL :: http://live.demoguru99.com/index.php/ on browser :: Chrome
+15:04:21 19:18:50: Account: INFO: Element :: <selenium.webdriver.remote.webelement.WebElement (session="5b6df49a3a67d8b11db51f5f56996a26", element="37341eb8-78a6-423e-bd6f-a5efbcce8876")>found for locator :: //a/span[text()='Account']
+15:04:21 19:18:50: Account: INFO: Clicked on Element : <selenium.webdriver.remote.webelement.WebElement (session="5b6df49a3a67d8b11db51f5f56996a26", element="37341eb8-78a6-423e-bd6f-a5efbcce8876")>
+15:04:21 19:18:52: <module>: INFO: Automation Ended
+15:04:21 19:19:57: <module>: INFO: Automation Started
+15:04:21 19:20:06: WebDriverFactory: INFO: Launching the URL :: http://live.demoguru99.com/index.php/ on browser :: Chrome
+15:04:21 19:20:06: Account: INFO: Element :: <selenium.webdriver.remote.webelement.WebElement (session="5694308bd6205fa6d99e5fd25b8252e8", element="c4969aac-4872-4633-9fad-fc85322f79a5")>found for locator :: //a/span[text()='Account']
+15:04:21 19:20:06: Account: INFO: Clicked on Element : <selenium.webdriver.remote.webelement.WebElement (session="5694308bd6205fa6d99e5fd25b8252e8", element="c4969aac-4872-4633-9fad-fc85322f79a5")>
+15:04:21 19:20:08: <module>: INFO: Automation Ended
+15:04:21 19:41:13: <module>: INFO: Automation Started
+15:04:21 19:41:20: WebDriverFactory: INFO: Launching the URL :: http://live.demoguru99.com/index.php/ on browser :: Chrome
+15:04:21 19:41:20: Account: INFO: Element :: <selenium.webdriver.remote.webelement.WebElement (session="9b3fa1c9437deb367582b1b28b3d21d1", element="975d40dc-6dba-4aa4-ac36-c0d6173b5a4a")>found for locator :: //a/span[text()='Account']
+15:04:21 19:41:20: Account: INFO: Clicked on Element : <selenium.webdriver.remote.webelement.WebElement (session="9b3fa1c9437deb367582b1b28b3d21d1", element="975d40dc-6dba-4aa4-ac36-c0d6173b5a4a")>
+15:04:21 19:41:20: SeleniumDriver: INFO: Element :: <selenium.webdriver.remote.webelement.WebElement (session="9b3fa1c9437deb367582b1b28b3d21d1", element="26e3f840-42c1-4eab-8efd-1f419e97f37d")>found for locator :: Log In
+15:04:21 19:41:21: SeleniumDriver: INFO: Clicked on Element : <selenium.webdriver.remote.webelement.WebElement (session="9b3fa1c9437deb367582b1b28b3d21d1", element="26e3f840-42c1-4eab-8efd-1f419e97f37d")>
+15:04:21 19:41:31: SeleniumDriver: INFO: Element could not be found for :: Log In
+15:04:21 19:41:33: <module>: INFO: Automation Ended
+15:04:21 19:42:40: <module>: INFO: Automation Started
+15:04:21 19:42:47: WebDriverFactory: INFO: Launching the URL :: http://live.demoguru99.com/index.php/ on browser :: Chrome
+15:04:21 19:42:47: Account: INFO: Element :: <selenium.webdriver.remote.webelement.WebElement (session="e883b2d7b49c30dafa41ade5c0005dea", element="e8a841a0-7f27-4713-b821-8d0d89df2e0e")>found for locator :: //a/span[text()='Account']
+15:04:21 19:42:47: Account: INFO: Clicked on Element : <selenium.webdriver.remote.webelement.WebElement (session="e883b2d7b49c30dafa41ade5c0005dea", element="e8a841a0-7f27-4713-b821-8d0d89df2e0e")>
+15:04:21 19:42:47: SeleniumDriver: INFO: Element :: <selenium.webdriver.remote.webelement.WebElement (session="e883b2d7b49c30dafa41ade5c0005dea", element="4b2c77f2-076e-4f24-9ba2-927b94c870f7")>found for locator :: Log In
+15:04:21 19:42:49: SeleniumDriver: INFO: Clicked on Element : <selenium.webdriver.remote.webelement.WebElement (session="e883b2d7b49c30dafa41ade5c0005dea", element="4b2c77f2-076e-4f24-9ba2-927b94c870f7")>
+15:04:21 19:42:59: SeleniumDriver: INFO: Element could not be found for :: Log In
+15:04:21 19:43:01: <module>: INFO: Automation Ended
+15:04:21 19:45:54: <module>: INFO: Automation Started
+15:04:21 19:45:59: WebDriverFactory: INFO: Launching the URL :: http://live.demoguru99.com/index.php/ on browser :: Chrome
+15:04:21 19:45:59: Account: INFO: Element :: <selenium.webdriver.remote.webelement.WebElement (session="3ef61232537e00d0f5a2f57ca7dd4288", element="7fed6418-7858-44d7-ac63-48fd6eea0855")>found for locator :: //a/span[text()='Account']
+15:04:21 19:45:59: Account: INFO: Clicked on Element : <selenium.webdriver.remote.webelement.WebElement (session="3ef61232537e00d0f5a2f57ca7dd4288", element="7fed6418-7858-44d7-ac63-48fd6eea0855")>
+15:04:21 19:46:00: SeleniumDriver: INFO: Element :: <selenium.webdriver.remote.webelement.WebElement (session="3ef61232537e00d0f5a2f57ca7dd4288", element="68f208b9-e9fc-4bf5-a5a1-0b052dbb7cef")>found for locator :: Log In
+15:04:21 19:46:00: SeleniumDriver: INFO: Clicked on Element : <selenium.webdriver.remote.webelement.WebElement (session="3ef61232537e00d0f5a2f57ca7dd4288", element="68f208b9-e9fc-4bf5-a5a1-0b052dbb7cef")>
+15:04:21 19:46:10: SeleniumDriver: INFO: Element could not be found for :: Log In
+15:04:21 19:46:13: <module>: INFO: Automation Ended
+15:04:21 19:47:12: <module>: INFO: Automation Started
+15:04:21 19:47:17: WebDriverFactory: INFO: Launching the URL :: http://live.demoguru99.com/index.php/ on browser :: Chrome
+15:04:21 19:47:17: Account: INFO: Element :: <selenium.webdriver.remote.webelement.WebElement (session="6264afbb6907e8de565c8ea83c260be5", element="be3b4878-2156-47de-8df6-72297b6adf10")>found for locator :: //a/span[text()='Account']
+15:04:21 19:47:18: Account: INFO: Clicked on Element : <selenium.webdriver.remote.webelement.WebElement (session="6264afbb6907e8de565c8ea83c260be5", element="be3b4878-2156-47de-8df6-72297b6adf10")>
+15:04:21 19:47:18: SeleniumDriver: INFO: Element :: <selenium.webdriver.remote.webelement.WebElement (session="6264afbb6907e8de565c8ea83c260be5", element="ccd65f04-72be-4ea5-bbb2-d23b154662a3")>found for locator :: Log In
+15:04:21 19:47:18: SeleniumDriver: INFO: Clicked on Element : <selenium.webdriver.remote.webelement.WebElement (session="6264afbb6907e8de565c8ea83c260be5", element="ccd65f04-72be-4ea5-bbb2-d23b154662a3")>
+15:04:21 19:47:18: SeleniumDriver: INFO: Element :: <selenium.webdriver.remote.webelement.WebElement (session="6264afbb6907e8de565c8ea83c260be5", element="b5c54697-4836-413c-b866-aad4b69f7a76")>found for locator :: //input[@title='Email Address']
+15:04:21 19:47:19: SeleniumDriver: INFO: Text : testeight@email.com entered on locator: //input[@title='Email Address']
+15:04:21 19:47:19: SeleniumDriver: INFO: Element :: <selenium.webdriver.remote.webelement.WebElement (session="6264afbb6907e8de565c8ea83c260be5", element="c628f8b3-ac87-44a3-91bc-3e0a3284dbf7")>found for locator :: pass
+15:04:21 19:47:19: SeleniumDriver: INFO: Text : test@12345 entered on locator: pass
+15:04:21 19:47:29: SeleniumDriver: INFO: Element could not be found for :: send2
+15:04:21 19:47:31: <module>: INFO: Automation Ended
+15:04:21 19:48:00: <module>: INFO: Automation Started
+15:04:21 19:48:05: WebDriverFactory: INFO: Launching the URL :: http://live.demoguru99.com/index.php/ on browser :: Chrome
+15:04:21 19:48:05: Account: INFO: Element :: <selenium.webdriver.remote.webelement.WebElement (session="d6462503686ca8ce4c1d99537be0e938", element="06f772f8-fc0b-49b0-91cf-28fcbbb571dd")>found for locator :: //a/span[text()='Account']
+15:04:21 19:48:05: Account: INFO: Clicked on Element : <selenium.webdriver.remote.webelement.WebElement (session="d6462503686ca8ce4c1d99537be0e938", element="06f772f8-fc0b-49b0-91cf-28fcbbb571dd")>
+15:04:21 19:48:05: SeleniumDriver: INFO: Element :: <selenium.webdriver.remote.webelement.WebElement (session="d6462503686ca8ce4c1d99537be0e938", element="f734c112-b8d7-486f-93c6-ada13c9d107d")>found for locator :: Log In
+15:04:21 19:48:06: SeleniumDriver: INFO: Clicked on Element : <selenium.webdriver.remote.webelement.WebElement (session="d6462503686ca8ce4c1d99537be0e938", element="f734c112-b8d7-486f-93c6-ada13c9d107d")>
+15:04:21 19:48:06: SeleniumDriver: INFO: Element :: <selenium.webdriver.remote.webelement.WebElement (session="d6462503686ca8ce4c1d99537be0e938", element="f447e46e-3ade-4dbb-8d3a-2d5f55b4343e")>found for locator :: //input[@title='Email Address']
+15:04:21 19:48:06: SeleniumDriver: INFO: Text : testeight@email.com entered on locator: //input[@title='Email Address']
+15:04:21 19:48:06: SeleniumDriver: INFO: Element :: <selenium.webdriver.remote.webelement.WebElement (session="d6462503686ca8ce4c1d99537be0e938", element="a87176fe-bcbc-4d2f-bb75-9497e07e689f")>found for locator :: pass
+15:04:21 19:48:07: SeleniumDriver: INFO: Text : test@12345 entered on locator: pass
+15:04:21 19:48:07: SeleniumDriver: INFO: Element :: <selenium.webdriver.remote.webelement.WebElement (session="d6462503686ca8ce4c1d99537be0e938", element="36c97b37-0734-4b54-a5c0-d6852f82ce14")>found for locator :: send2
+15:04:21 19:48:08: SeleniumDriver: INFO: Clicked on Element : <selenium.webdriver.remote.webelement.WebElement (session="d6462503686ca8ce4c1d99537be0e938", element="36c97b37-0734-4b54-a5c0-d6852f82ce14")>
+15:04:21 19:48:18: SeleniumDriver: INFO: Element could not be found for :: //h1[text()='My Dashboard']
+15:04:21 19:48:18: SeleniumDriver: WARNING: Exception occurred while executing isElementDisplayed :: exception occurred :: 'NoneType' object has no attribute 'is_displayed'
+15:04:21 19:48:20: <module>: INFO: Automation Ended
+15:04:21 19:49:21: <module>: INFO: Automation Started
+15:04:21 19:49:26: WebDriverFactory: INFO: Launching the URL :: http://live.demoguru99.com/index.php/ on browser :: Chrome
+15:04:21 19:49:26: Account: INFO: Element :: <selenium.webdriver.remote.webelement.WebElement (session="fbf941ffa6f3f1656086950fe1bae531", element="f1a86813-ad43-4a02-b12e-ab8cee7c39e0")>found for locator :: //a/span[text()='Account']
+15:04:21 19:49:26: Account: INFO: Clicked on Element : <selenium.webdriver.remote.webelement.WebElement (session="fbf941ffa6f3f1656086950fe1bae531", element="f1a86813-ad43-4a02-b12e-ab8cee7c39e0")>
+15:04:21 19:49:26: Account: INFO: Element :: <selenium.webdriver.remote.webelement.WebElement (session="fbf941ffa6f3f1656086950fe1bae531", element="f1a86813-ad43-4a02-b12e-ab8cee7c39e0")>found for locator :: //a/span[text()='Account']
+15:04:21 19:49:26: Account: INFO: Clicked on Element : <selenium.webdriver.remote.webelement.WebElement (session="fbf941ffa6f3f1656086950fe1bae531", element="f1a86813-ad43-4a02-b12e-ab8cee7c39e0")>
+15:04:21 19:49:36: SeleniumDriver: INFO: Element could not be found for :: Log In
+15:04:21 19:49:38: <module>: INFO: Automation Ended
+15:04:21 19:50:38: <module>: INFO: Automation Started
+15:04:21 19:50:43: WebDriverFactory: INFO: Launching the URL :: http://live.demoguru99.com/index.php/ on browser :: Chrome
+15:04:21 19:50:44: Account: INFO: Element :: <selenium.webdriver.remote.webelement.WebElement (session="12e6fa4ff48927175f267e011bc0d665", element="ee6e7f52-94ba-4e08-a8cb-c691dbaf89a4")>found for locator :: //a/span[text()='Account']
+15:04:21 19:50:44: Account: INFO: Clicked on Element : <selenium.webdriver.remote.webelement.WebElement (session="12e6fa4ff48927175f267e011bc0d665", element="ee6e7f52-94ba-4e08-a8cb-c691dbaf89a4")>
+15:04:21 19:50:46: <module>: INFO: Automation Ended
+15:04:21 20:25:14: <module>: INFO: Automation Started
+15:04:21 20:25:21: WebDriverFactory: INFO: Launching the URL :: http://live.demoguru99.com/index.php/ on browser :: Chrome
+15:04:21 20:25:21: Account: INFO: Element :: <selenium.webdriver.remote.webelement.WebElement (session="8761257022360d8052e75b9d690c8faa", element="e519722c-57f1-44bc-ae5e-d50366acb9b9")>found for locator :: //a/span[text()='Account']
+15:04:21 20:25:21: Account: INFO: Clicked on Element : <selenium.webdriver.remote.webelement.WebElement (session="8761257022360d8052e75b9d690c8faa", element="e519722c-57f1-44bc-ae5e-d50366acb9b9")>
+15:04:21 20:25:21: SeleniumDriver: INFO: Element :: <selenium.webdriver.remote.webelement.WebElement (session="8761257022360d8052e75b9d690c8faa", element="1fb2778f-3e81-4fab-8096-671b22b6ff41")>found for locator :: Log In
+15:04:21 20:25:22: SeleniumDriver: INFO: Clicked on Element : <selenium.webdriver.remote.webelement.WebElement (session="8761257022360d8052e75b9d690c8faa", element="1fb2778f-3e81-4fab-8096-671b22b6ff41")>
+15:04:21 20:25:22: SeleniumDriver: INFO: Element :: <selenium.webdriver.remote.webelement.WebElement (session="8761257022360d8052e75b9d690c8faa", element="a9fe9295-6389-4f2b-914c-c8b7c70c9244")>found for locator :: //input[@title='Email Address']
+15:04:21 20:25:22: SeleniumDriver: INFO: Text : testeight@email.com entered on locator: //input[@title='Email Address']
+15:04:21 20:25:22: SeleniumDriver: INFO: Element :: <selenium.webdriver.remote.webelement.WebElement (session="8761257022360d8052e75b9d690c8faa", element="8bafa2d7-efa6-4bac-ae9d-23c2abc6ce5c")>found for locator :: pass
+15:04:21 20:25:22: SeleniumDriver: INFO: Text : test@12345 entered on locator: pass
+15:04:21 20:25:22: SeleniumDriver: INFO: Element :: <selenium.webdriver.remote.webelement.WebElement (session="8761257022360d8052e75b9d690c8faa", element="131b3f2d-8b50-4622-8251-6f561c7a6c11")>found for locator :: send2
+15:04:21 20:25:23: SeleniumDriver: INFO: Clicked on Element : <selenium.webdriver.remote.webelement.WebElement (session="8761257022360d8052e75b9d690c8faa", element="131b3f2d-8b50-4622-8251-6f561c7a6c11")>
+15:04:21 20:25:33: SeleniumDriver: INFO: Element could not be found for :: //h1[text()='My Dashboard']
+15:04:21 20:25:33: SeleniumDriver: WARNING: Exception occurred while executing isElementDisplayed :: exception occurred :: 'NoneType' object has no attribute 'is_displayed'
+15:04:21 20:25:35: <module>: INFO: Automation Ended
+15:04:21 20:34:23: <module>: INFO: Automation Started
+15:04:21 20:34:28: WebDriverFactory: INFO: Launching the URL :: http://live.demoguru99.com/index.php/ on browser :: Chrome
+15:04:21 20:34:28: Account: INFO: Element :: <selenium.webdriver.remote.webelement.WebElement (session="b13ab8fba1a6578c52c83c2163644575", element="dd7c1b76-c25b-4b22-bde3-51cd18b0bd50")>found for locator :: //a/span[text()='Account']
+15:04:21 20:34:28: Account: INFO: Clicked on Element : <selenium.webdriver.remote.webelement.WebElement (session="b13ab8fba1a6578c52c83c2163644575", element="dd7c1b76-c25b-4b22-bde3-51cd18b0bd50")>
+15:04:21 20:34:28: SeleniumDriver: INFO: Element :: <selenium.webdriver.remote.webelement.WebElement (session="b13ab8fba1a6578c52c83c2163644575", element="5c19e602-3bef-4dd7-aad4-27a80b0500dc")>found for locator :: Log In
+15:04:21 20:34:29: SeleniumDriver: INFO: Clicked on Element : <selenium.webdriver.remote.webelement.WebElement (session="b13ab8fba1a6578c52c83c2163644575", element="5c19e602-3bef-4dd7-aad4-27a80b0500dc")>
+15:04:21 20:34:29: SeleniumDriver: INFO: Element :: <selenium.webdriver.remote.webelement.WebElement (session="b13ab8fba1a6578c52c83c2163644575", element="33faf9b3-07a9-4231-aee8-3669797b22c9")>found for locator :: //input[@title='Email Address']
+15:04:21 20:34:29: SeleniumDriver: INFO: Text : testeight@email.com entered on locator: //input[@title='Email Address']
+15:04:21 20:34:29: SeleniumDriver: INFO: Element :: <selenium.webdriver.remote.webelement.WebElement (session="b13ab8fba1a6578c52c83c2163644575", element="f682c90d-533e-4f0e-b5ad-5e3993cacac7")>found for locator :: pass
+15:04:21 20:34:29: SeleniumDriver: INFO: Text : test@12345 entered on locator: pass
+15:04:21 20:34:29: SeleniumDriver: INFO: Element :: <selenium.webdriver.remote.webelement.WebElement (session="b13ab8fba1a6578c52c83c2163644575", element="1abbc8f4-3399-4c3b-8055-73df80eef702")>found for locator :: send2
+15:04:21 20:34:30: SeleniumDriver: INFO: Clicked on Element : <selenium.webdriver.remote.webelement.WebElement (session="b13ab8fba1a6578c52c83c2163644575", element="1abbc8f4-3399-4c3b-8055-73df80eef702")>
+15:04:21 20:34:40: SeleniumDriver: INFO: Element could not be found for :: //h1[text()='My Dashboard']
+15:04:21 20:34:40: SeleniumDriver: WARNING: Exception occurred while executing isElementDisplayed :: exception occurred :: 'NoneType' object has no attribute 'is_displayed'
+15:04:21 20:34:43: <module>: INFO: Automation Ended
+15:04:21 20:34:43: <module>: INFO: Automation Started
+15:04:21 20:34:48: WebDriverFactory: INFO: Launching the URL :: http://live.demoguru99.com/index.php/ on browser :: Chrome
+15:04:21 20:34:48: Account: INFO: Element :: <selenium.webdriver.remote.webelement.WebElement (session="dcc6159b1b9e8819a007f8a52ae3ceab", element="12e82bd0-c5f3-4be2-8ba4-d3523d5216d8")>found for locator :: //a/span[text()='Account']
+15:04:21 20:34:48: Account: INFO: Clicked on Element : <selenium.webdriver.remote.webelement.WebElement (session="dcc6159b1b9e8819a007f8a52ae3ceab", element="12e82bd0-c5f3-4be2-8ba4-d3523d5216d8")>
+15:04:21 20:34:48: Account: INFO: Element :: <selenium.webdriver.remote.webelement.WebElement (session="dcc6159b1b9e8819a007f8a52ae3ceab", element="f5cfa44a-241b-4442-acc5-e42836c64389")>found for locator :: Register
+15:04:21 20:34:49: Account: INFO: Clicked on Element : <selenium.webdriver.remote.webelement.WebElement (session="dcc6159b1b9e8819a007f8a52ae3ceab", element="f5cfa44a-241b-4442-acc5-e42836c64389")>
+15:04:21 20:34:49: Account: INFO: Element :: <selenium.webdriver.remote.webelement.WebElement (session="dcc6159b1b9e8819a007f8a52ae3ceab", element="b068598d-2798-47ad-8b3c-bb170c033d24")>found for locator :: firstname
+15:04:21 20:34:49: Account: INFO: Text : Test entered on locator: firstname
+15:04:21 20:34:49: Account: INFO: Element :: <selenium.webdriver.remote.webelement.WebElement (session="dcc6159b1b9e8819a007f8a52ae3ceab", element="a9175fcf-7a2d-4367-ab76-0d2ccd56fddd")>found for locator :: lastname
+15:04:21 20:34:49: Account: INFO: Text : one entered on locator: lastname
+15:04:21 20:34:49: Account: INFO: Element :: <selenium.webdriver.remote.webelement.WebElement (session="dcc6159b1b9e8819a007f8a52ae3ceab", element="c2db703c-412e-47db-918c-36f5c8ccdbfd")>found for locator :: email_address
+15:04:21 20:34:49: Account: INFO: Text : testseven@email.com entered on locator: email_address
+15:04:21 20:34:49: Account: INFO: Element :: <selenium.webdriver.remote.webelement.WebElement (session="dcc6159b1b9e8819a007f8a52ae3ceab", element="18392254-0b10-4456-9bc1-aaed78d88074")>found for locator :: password
+15:04:21 20:34:49: Account: INFO: Text : test@12345 entered on locator: password
+15:04:21 20:34:49: Account: INFO: Element :: <selenium.webdriver.remote.webelement.WebElement (session="dcc6159b1b9e8819a007f8a52ae3ceab", element="81d84109-2e4b-4831-84ed-0ef939721635")>found for locator :: confirmation
+15:04:21 20:34:49: Account: INFO: Text : test@12345 entered on locator: confirmation
+15:04:21 20:34:49: Account: INFO: Element :: <selenium.webdriver.remote.webelement.WebElement (session="dcc6159b1b9e8819a007f8a52ae3ceab", element="77c5f898-c1a3-442d-b7cf-29983c36c2b1")>found for locator :: is_subscribed
+15:04:21 20:34:50: Account: INFO: Clicked on Element : <selenium.webdriver.remote.webelement.WebElement (session="dcc6159b1b9e8819a007f8a52ae3ceab", element="77c5f898-c1a3-442d-b7cf-29983c36c2b1")>
+15:04:21 20:34:50: Account: INFO: Element :: <selenium.webdriver.remote.webelement.WebElement (session="dcc6159b1b9e8819a007f8a52ae3ceab", element="16857996-a97b-4be1-a626-49002b54f967")>found for locator :: //button[@title='Register']
+15:04:21 20:34:51: Account: INFO: Clicked on Element : <selenium.webdriver.remote.webelement.WebElement (session="dcc6159b1b9e8819a007f8a52ae3ceab", element="16857996-a97b-4be1-a626-49002b54f967")>
+15:04:21 20:34:51: Account: INFO: Element :: <selenium.webdriver.remote.webelement.WebElement (session="dcc6159b1b9e8819a007f8a52ae3ceab", element="e0a58ba9-d381-4903-b032-f49a64a5a12a")>found for locator :: //span[text()='Thank you for registering with Main Website Store.']
+15:04:21 20:34:51: Account: INFO: Element is displayed with locator :: //span[text()='Thank you for registering with Main Website Store.']
+15:04:21 20:34:53: <module>: INFO: Automation Ended
+15:04:21 20:34:53: <module>: INFO: Automation Started
+15:04:21 20:34:58: WebDriverFactory: INFO: Launching the URL :: http://live.demoguru99.com/index.php/ on browser :: Chrome
+15:04:21 20:34:58: Account: INFO: Element :: <selenium.webdriver.remote.webelement.WebElement (session="2a14f29429d70c4c929d354f8fb37808", element="0fb08ae4-7547-4a85-8e7c-33d5eb901be0")>found for locator :: //a/span[text()='Account']
+15:04:21 20:34:58: Account: INFO: Clicked on Element : <selenium.webdriver.remote.webelement.WebElement (session="2a14f29429d70c4c929d354f8fb37808", element="0fb08ae4-7547-4a85-8e7c-33d5eb901be0")>
+15:04:21 20:34:59: Account: INFO: Element :: <selenium.webdriver.remote.webelement.WebElement (session="2a14f29429d70c4c929d354f8fb37808", element="d48e1956-2118-4dbe-91e4-812a3207055a")>found for locator :: Register
+15:04:21 20:34:59: Account: INFO: Clicked on Element : <selenium.webdriver.remote.webelement.WebElement (session="2a14f29429d70c4c929d354f8fb37808", element="d48e1956-2118-4dbe-91e4-812a3207055a")>
+15:04:21 20:34:59: Account: INFO: Element :: <selenium.webdriver.remote.webelement.WebElement (session="2a14f29429d70c4c929d354f8fb37808", element="cf8d7946-7a32-446c-9bdd-6e56e28247e6")>found for locator :: firstname
+15:04:21 20:35:00: Account: INFO: Text : Test entered on locator: firstname
+15:04:21 20:35:00: Account: INFO: Element :: <selenium.webdriver.remote.webelement.WebElement (session="2a14f29429d70c4c929d354f8fb37808", element="197e75db-688c-4cff-8c3f-9f0e9ad51ef2")>found for locator :: lastname
+15:04:21 20:35:00: Account: INFO: Text : two entered on locator: lastname
+15:04:21 20:35:00: Account: INFO: Element :: <selenium.webdriver.remote.webelement.WebElement (session="2a14f29429d70c4c929d354f8fb37808", element="34a6bc57-6a98-496e-a17c-e52f991e1aae")>found for locator :: email_address
+15:04:21 20:35:00: Account: INFO: Text : testeight@email.com entered on locator: email_address
+15:04:21 20:35:00: Account: INFO: Element :: <selenium.webdriver.remote.webelement.WebElement (session="2a14f29429d70c4c929d354f8fb37808", element="2d3c91d8-e6af-408b-b5ee-28dcb7ea937e")>found for locator :: password
+15:04:21 20:35:00: Account: INFO: Text : test@12345 entered on locator: password
+15:04:21 20:35:00: Account: INFO: Element :: <selenium.webdriver.remote.webelement.WebElement (session="2a14f29429d70c4c929d354f8fb37808", element="66c1fac8-0d72-468f-98ff-4289824cb0c9")>found for locator :: confirmation
+15:04:21 20:35:00: Account: INFO: Text : test@12345 entered on locator: confirmation
+15:04:21 20:35:00: Account: INFO: Element :: <selenium.webdriver.remote.webelement.WebElement (session="2a14f29429d70c4c929d354f8fb37808", element="9aab1f80-7cf6-4dc7-91f6-37b26e29bc23")>found for locator :: is_subscribed
+15:04:21 20:35:00: Account: INFO: Clicked on Element : <selenium.webdriver.remote.webelement.WebElement (session="2a14f29429d70c4c929d354f8fb37808", element="9aab1f80-7cf6-4dc7-91f6-37b26e29bc23")>
+15:04:21 20:35:00: Account: INFO: Element :: <selenium.webdriver.remote.webelement.WebElement (session="2a14f29429d70c4c929d354f8fb37808", element="2d5d2f81-6bd0-4f57-83dc-fd1ee404b9fa")>found for locator :: //button[@title='Register']
+15:04:21 20:35:02: Account: INFO: Clicked on Element : <selenium.webdriver.remote.webelement.WebElement (session="2a14f29429d70c4c929d354f8fb37808", element="2d5d2f81-6bd0-4f57-83dc-fd1ee404b9fa")>
+15:04:21 20:35:02: Account: INFO: Element :: <selenium.webdriver.remote.webelement.WebElement (session="2a14f29429d70c4c929d354f8fb37808", element="75d71fcc-3a77-4a1d-9954-06c18c2f7ba1")>found for locator :: //span[text()='Thank you for registering with Main Website Store.']
+15:04:21 20:35:02: Account: INFO: Element is displayed with locator :: //span[text()='Thank you for registering with Main Website Store.']
+15:04:21 20:35:04: <module>: INFO: Automation Ended
+15:04:21 21:04:51: <module>: INFO: Automation Started
+15:04:21 21:04:57: WebDriverFactory: INFO: Launching the URL :: http://live.demoguru99.com/index.php/ on browser :: Chrome
+15:04:21 21:04:57: Account: INFO: Element :: <selenium.webdriver.remote.webelement.WebElement (session="530e4590cb2c37c44232f0e6dce05f20", element="80b548a8-38b2-408a-ae7d-7ae1767175b7")>found for locator :: //a/span[text()='Account']
+15:04:21 21:04:57: Account: INFO: Clicked on Element : <selenium.webdriver.remote.webelement.WebElement (session="530e4590cb2c37c44232f0e6dce05f20", element="80b548a8-38b2-408a-ae7d-7ae1767175b7")>
+15:04:21 21:04:57: SeleniumDriver: INFO: Element :: <selenium.webdriver.remote.webelement.WebElement (session="530e4590cb2c37c44232f0e6dce05f20", element="7708746a-b231-4f4d-956e-ae1f5d278b45")>found for locator :: Log In
+15:04:21 21:04:58: SeleniumDriver: INFO: Clicked on Element : <selenium.webdriver.remote.webelement.WebElement (session="530e4590cb2c37c44232f0e6dce05f20", element="7708746a-b231-4f4d-956e-ae1f5d278b45")>
+15:04:21 21:04:58: SeleniumDriver: INFO: Element :: <selenium.webdriver.remote.webelement.WebElement (session="530e4590cb2c37c44232f0e6dce05f20", element="ead3e973-717a-4653-9165-73c6560758d7")>found for locator :: //input[@title='Email Address']
+15:04:21 21:04:58: SeleniumDriver: INFO: Text : testeight@email.com entered on locator: //input[@title='Email Address']
+15:04:21 21:04:58: SeleniumDriver: INFO: Element :: <selenium.webdriver.remote.webelement.WebElement (session="530e4590cb2c37c44232f0e6dce05f20", element="a6b25bb5-228a-4d28-9add-e219d8e6fd52")>found for locator :: pass
+15:04:21 21:04:58: SeleniumDriver: INFO: Text : test@12345 entered on locator: pass
+15:04:21 21:04:58: SeleniumDriver: INFO: Element :: <selenium.webdriver.remote.webelement.WebElement (session="530e4590cb2c37c44232f0e6dce05f20", element="bb668fe4-00e6-47dd-adc4-ce069f3d49da")>found for locator :: send2
+15:04:21 21:05:00: SeleniumDriver: INFO: Clicked on Element : <selenium.webdriver.remote.webelement.WebElement (session="530e4590cb2c37c44232f0e6dce05f20", element="bb668fe4-00e6-47dd-adc4-ce069f3d49da")>
+15:04:21 21:05:00: SeleniumDriver: INFO: Element :: <selenium.webdriver.remote.webelement.WebElement (session="530e4590cb2c37c44232f0e6dce05f20", element="9314d680-90b3-477f-b456-1cd5d77d03a0")>found for locator :: //h1[text()='My Dashboard']
+15:04:21 21:05:00: SeleniumDriver: INFO: Element is displayed with locator :: //h1[text()='My Dashboard']
+15:04:21 21:05:02: <module>: INFO: Automation Ended
+15:04:21 21:05:09: <module>: INFO: Automation Started
+15:04:21 21:05:15: WebDriverFactory: INFO: Launching the URL :: http://live.demoguru99.com/index.php/ on browser :: Chrome
+15:04:21 21:05:15: Account: INFO: Element :: <selenium.webdriver.remote.webelement.WebElement (session="6666bf482e54e9d4918f31c63e83aeb9", element="982226c7-0899-40e8-be18-fa3a2ae66e73")>found for locator :: //a/span[text()='Account']
+15:04:21 21:05:15: Account: INFO: Clicked on Element : <selenium.webdriver.remote.webelement.WebElement (session="6666bf482e54e9d4918f31c63e83aeb9", element="982226c7-0899-40e8-be18-fa3a2ae66e73")>
+15:04:21 21:05:15: SeleniumDriver: INFO: Element :: <selenium.webdriver.remote.webelement.WebElement (session="6666bf482e54e9d4918f31c63e83aeb9", element="a9d44daf-2246-4fcd-948a-82bc5fee6e4c")>found for locator :: Log In
+15:04:21 21:05:16: SeleniumDriver: INFO: Clicked on Element : <selenium.webdriver.remote.webelement.WebElement (session="6666bf482e54e9d4918f31c63e83aeb9", element="a9d44daf-2246-4fcd-948a-82bc5fee6e4c")>
+15:04:21 21:05:16: SeleniumDriver: INFO: Element :: <selenium.webdriver.remote.webelement.WebElement (session="6666bf482e54e9d4918f31c63e83aeb9", element="17ccb970-8452-4dc0-aa06-6b2c4cbdbdf7")>found for locator :: //input[@title='Email Address']
+15:04:21 21:05:16: SeleniumDriver: INFO: Text : testeight@email.com entered on locator: //input[@title='Email Address']
+15:04:21 21:05:16: SeleniumDriver: INFO: Element :: <selenium.webdriver.remote.webelement.WebElement (session="6666bf482e54e9d4918f31c63e83aeb9", element="80b15662-2a3d-48f4-bc19-d0108d3cd19e")>found for locator :: pass
+15:04:21 21:05:16: SeleniumDriver: INFO: Text : test@12345 entered on locator: pass
+15:04:21 21:05:16: SeleniumDriver: INFO: Element :: <selenium.webdriver.remote.webelement.WebElement (session="6666bf482e54e9d4918f31c63e83aeb9", element="af1b8203-d580-4446-abea-8660fda9191d")>found for locator :: send2
+15:04:21 21:05:17: SeleniumDriver: INFO: Clicked on Element : <selenium.webdriver.remote.webelement.WebElement (session="6666bf482e54e9d4918f31c63e83aeb9", element="af1b8203-d580-4446-abea-8660fda9191d")>
+15:04:21 21:05:17: SeleniumDriver: INFO: Element :: <selenium.webdriver.remote.webelement.WebElement (session="6666bf482e54e9d4918f31c63e83aeb9", element="71429879-83b3-4828-a770-8c968bde0199")>found for locator :: //h1[text()='My Dashboard']
+15:04:21 21:05:18: SeleniumDriver: INFO: Element is displayed with locator :: //h1[text()='My Dashboard']
+15:04:21 21:05:20: <module>: INFO: Automation Ended
+15:04:21 21:05:20: <module>: INFO: Automation Started
+15:04:21 21:05:25: WebDriverFactory: INFO: Launching the URL :: http://live.demoguru99.com/index.php/ on browser :: Chrome
+15:04:21 21:05:25: Account: INFO: Element :: <selenium.webdriver.remote.webelement.WebElement (session="f87763c6bc73b0559dd24ba849ef2bbf", element="2d116630-6e21-4404-a942-c2375fb6c490")>found for locator :: //a/span[text()='Account']
+15:04:21 21:05:25: Account: INFO: Clicked on Element : <selenium.webdriver.remote.webelement.WebElement (session="f87763c6bc73b0559dd24ba849ef2bbf", element="2d116630-6e21-4404-a942-c2375fb6c490")>
+15:04:21 21:05:25: Account: INFO: Element :: <selenium.webdriver.remote.webelement.WebElement (session="f87763c6bc73b0559dd24ba849ef2bbf", element="d2d73b51-b24e-4d72-beb4-036af7cda81e")>found for locator :: Register
+15:04:21 21:05:26: Account: INFO: Clicked on Element : <selenium.webdriver.remote.webelement.WebElement (session="f87763c6bc73b0559dd24ba849ef2bbf", element="d2d73b51-b24e-4d72-beb4-036af7cda81e")>
+15:04:21 21:05:26: Account: INFO: Element :: <selenium.webdriver.remote.webelement.WebElement (session="f87763c6bc73b0559dd24ba849ef2bbf", element="b862aa92-0637-4936-ab29-db49032d9973")>found for locator :: firstname
+15:04:21 21:05:26: Account: INFO: Text : Test entered on locator: firstname
+15:04:21 21:05:26: Account: INFO: Element :: <selenium.webdriver.remote.webelement.WebElement (session="f87763c6bc73b0559dd24ba849ef2bbf", element="d5520d12-0686-4ebe-a86c-ad6f1e7d625b")>found for locator :: lastname
+15:04:21 21:05:26: Account: INFO: Text : one entered on locator: lastname
+15:04:21 21:05:26: Account: INFO: Element :: <selenium.webdriver.remote.webelement.WebElement (session="f87763c6bc73b0559dd24ba849ef2bbf", element="41263cad-a933-45a1-9aed-fb4675e99c9b")>found for locator :: email_address
+15:04:21 21:05:27: Account: INFO: Text : testseven@email.com entered on locator: email_address
+15:04:21 21:05:27: Account: INFO: Element :: <selenium.webdriver.remote.webelement.WebElement (session="f87763c6bc73b0559dd24ba849ef2bbf", element="1e4bdc40-8812-4538-8856-4b0e54e4bba0")>found for locator :: password
+15:04:21 21:05:27: Account: INFO: Text : test@12345 entered on locator: password
+15:04:21 21:05:27: Account: INFO: Element :: <selenium.webdriver.remote.webelement.WebElement (session="f87763c6bc73b0559dd24ba849ef2bbf", element="8e690f64-53f6-453e-8c56-b3dc0fb3bcb8")>found for locator :: confirmation
+15:04:21 21:05:27: Account: INFO: Text : test@12345 entered on locator: confirmation
+15:04:21 21:05:27: Account: INFO: Element :: <selenium.webdriver.remote.webelement.WebElement (session="f87763c6bc73b0559dd24ba849ef2bbf", element="67509737-cc3e-4c6d-97f9-0c70c44ebf32")>found for locator :: is_subscribed
+15:04:21 21:05:27: Account: INFO: Clicked on Element : <selenium.webdriver.remote.webelement.WebElement (session="f87763c6bc73b0559dd24ba849ef2bbf", element="67509737-cc3e-4c6d-97f9-0c70c44ebf32")>
+15:04:21 21:05:27: Account: INFO: Element :: <selenium.webdriver.remote.webelement.WebElement (session="f87763c6bc73b0559dd24ba849ef2bbf", element="e4c6329b-047e-47c8-928a-1e867a694164")>found for locator :: //button[@title='Register']
+15:04:21 21:05:28: Account: INFO: Clicked on Element : <selenium.webdriver.remote.webelement.WebElement (session="f87763c6bc73b0559dd24ba849ef2bbf", element="e4c6329b-047e-47c8-928a-1e867a694164")>
+15:04:21 21:05:38: Account: INFO: Element could not be found for :: //span[text()='Thank you for registering with Main Website Store.']
+15:04:21 21:05:38: Account: WARNING: Exception occurred while executing isElementDisplayed :: exception occurred :: 'NoneType' object has no attribute 'is_displayed'
+15:04:21 21:05:40: <module>: INFO: Automation Ended
+15:04:21 21:05:40: <module>: INFO: Automation Started
+15:04:21 21:05:46: WebDriverFactory: INFO: Launching the URL :: http://live.demoguru99.com/index.php/ on browser :: Chrome
+15:04:21 21:05:46: Account: INFO: Element :: <selenium.webdriver.remote.webelement.WebElement (session="ac4513eaa470a926840486b73b7f4035", element="71c7107d-006b-4ec0-84a2-286883b525f0")>found for locator :: //a/span[text()='Account']
+15:04:21 21:05:46: Account: INFO: Clicked on Element : <selenium.webdriver.remote.webelement.WebElement (session="ac4513eaa470a926840486b73b7f4035", element="71c7107d-006b-4ec0-84a2-286883b525f0")>
+15:04:21 21:05:46: Account: INFO: Element :: <selenium.webdriver.remote.webelement.WebElement (session="ac4513eaa470a926840486b73b7f4035", element="dc70fb18-d5fd-4871-a98d-55fd2d689cce")>found for locator :: Register
+15:04:21 21:05:47: Account: INFO: Clicked on Element : <selenium.webdriver.remote.webelement.WebElement (session="ac4513eaa470a926840486b73b7f4035", element="dc70fb18-d5fd-4871-a98d-55fd2d689cce")>
+15:04:21 21:05:47: Account: INFO: Element :: <selenium.webdriver.remote.webelement.WebElement (session="ac4513eaa470a926840486b73b7f4035", element="adfee546-b924-4aeb-a4f1-7296054e11bc")>found for locator :: firstname
+15:04:21 21:05:47: Account: INFO: Text : Test entered on locator: firstname
+15:04:21 21:05:47: Account: INFO: Element :: <selenium.webdriver.remote.webelement.WebElement (session="ac4513eaa470a926840486b73b7f4035", element="63eebe6c-f7ee-445d-a1c7-5f428ff2976c")>found for locator :: lastname
+15:04:21 21:05:47: Account: INFO: Text : two entered on locator: lastname
+15:04:21 21:05:47: Account: INFO: Element :: <selenium.webdriver.remote.webelement.WebElement (session="ac4513eaa470a926840486b73b7f4035", element="e7e984ac-f4e3-4dec-ac26-771fe782d38e")>found for locator :: email_address
+15:04:21 21:05:47: Account: INFO: Text : testeight@email.com entered on locator: email_address
+15:04:21 21:05:47: Account: INFO: Element :: <selenium.webdriver.remote.webelement.WebElement (session="ac4513eaa470a926840486b73b7f4035", element="202f602b-cb08-4777-b1be-d36b48f3a763")>found for locator :: password
+15:04:21 21:05:48: Account: INFO: Text : test@12345 entered on locator: password
+15:04:21 21:05:48: Account: INFO: Element :: <selenium.webdriver.remote.webelement.WebElement (session="ac4513eaa470a926840486b73b7f4035", element="f42b212a-009c-44ea-a194-631a830d21b2")>found for locator :: confirmation
+15:04:21 21:05:48: Account: INFO: Text : test@12345 entered on locator: confirmation
+15:04:21 21:05:48: Account: INFO: Element :: <selenium.webdriver.remote.webelement.WebElement (session="ac4513eaa470a926840486b73b7f4035", element="e5a5986a-d140-4a2b-9681-6325759525b9")>found for locator :: is_subscribed
+15:04:21 21:05:48: Account: INFO: Clicked on Element : <selenium.webdriver.remote.webelement.WebElement (session="ac4513eaa470a926840486b73b7f4035", element="e5a5986a-d140-4a2b-9681-6325759525b9")>
+15:04:21 21:05:48: Account: INFO: Element :: <selenium.webdriver.remote.webelement.WebElement (session="ac4513eaa470a926840486b73b7f4035", element="9e0259ac-1275-4e85-b6db-f853c44dbfe0")>found for locator :: //button[@title='Register']
+15:04:21 21:05:49: Account: INFO: Clicked on Element : <selenium.webdriver.remote.webelement.WebElement (session="ac4513eaa470a926840486b73b7f4035", element="9e0259ac-1275-4e85-b6db-f853c44dbfe0")>
+15:04:21 21:05:59: Account: INFO: Element could not be found for :: //span[text()='Thank you for registering with Main Website Store.']
+15:04:21 21:05:59: Account: WARNING: Exception occurred while executing isElementDisplayed :: exception occurred :: 'NoneType' object has no attribute 'is_displayed'
+15:04:21 21:06:01: <module>: INFO: Automation Ended
+15:04:21 21:14:17: <module>: INFO: Automation Started
+15:04:21 21:14:23: WebDriverFactory: INFO: Launching the URL :: http://live.demoguru99.com/index.php/ on browser :: Chrome
+15:04:21 21:14:23: Account: INFO: Element :: <selenium.webdriver.remote.webelement.WebElement (session="010d46943c075cf130ee7ec7cb8a1d3d", element="4d81bb40-8e16-4a04-aa78-338aebd994e2")>found for locator :: //a/span[text()='Account']
+15:04:21 21:14:23: Account: INFO: Clicked on Element : <selenium.webdriver.remote.webelement.WebElement (session="010d46943c075cf130ee7ec7cb8a1d3d", element="4d81bb40-8e16-4a04-aa78-338aebd994e2")>
+15:04:21 21:14:23: Account: INFO: Element :: <selenium.webdriver.remote.webelement.WebElement (session="010d46943c075cf130ee7ec7cb8a1d3d", element="b4e8e21d-0960-4ce5-a161-9cdaa25f5d22")>found for locator :: Register
+15:04:21 21:14:24: Account: INFO: Clicked on Element : <selenium.webdriver.remote.webelement.WebElement (session="010d46943c075cf130ee7ec7cb8a1d3d", element="b4e8e21d-0960-4ce5-a161-9cdaa25f5d22")>
+15:04:21 21:14:24: Account: INFO: Element :: <selenium.webdriver.remote.webelement.WebElement (session="010d46943c075cf130ee7ec7cb8a1d3d", element="c9ea195c-6924-40ae-91ce-209c7b13be46")>found for locator :: firstname
+15:04:21 21:14:24: Account: INFO: Text : Test entered on locator: firstname
+15:04:21 21:14:24: Account: INFO: Element :: <selenium.webdriver.remote.webelement.WebElement (session="010d46943c075cf130ee7ec7cb8a1d3d", element="248e3a8a-7bd8-4953-ab95-8897bbb4af91")>found for locator :: lastname
+15:04:21 21:14:24: Account: INFO: Text : one entered on locator: lastname
+15:04:21 21:14:24: Account: INFO: Element :: <selenium.webdriver.remote.webelement.WebElement (session="010d46943c075cf130ee7ec7cb8a1d3d", element="e2716c94-1148-4781-93cf-3662a7aafab5")>found for locator :: email_address
+15:04:21 21:14:24: Account: INFO: Text : testeight@email.com entered on locator: email_address
+15:04:21 21:14:24: Account: INFO: Element :: <selenium.webdriver.remote.webelement.WebElement (session="010d46943c075cf130ee7ec7cb8a1d3d", element="06c4e32b-c572-4c58-875c-4f95018aa996")>found for locator :: password
+15:04:21 21:14:24: Account: INFO: Text : test@12345 entered on locator: password
+15:04:21 21:14:24: Account: INFO: Element :: <selenium.webdriver.remote.webelement.WebElement (session="010d46943c075cf130ee7ec7cb8a1d3d", element="4ff8dd37-44c1-4eef-ab87-3da5969bc34e")>found for locator :: confirmation
+15:04:21 21:14:25: Account: INFO: Text : test@12345 entered on locator: confirmation
+15:04:21 21:14:25: Account: INFO: Element :: <selenium.webdriver.remote.webelement.WebElement (session="010d46943c075cf130ee7ec7cb8a1d3d", element="e559e025-1e5c-40c6-aa87-a25f89ce563a")>found for locator :: is_subscribed
+15:04:21 21:14:25: Account: INFO: Clicked on Element : <selenium.webdriver.remote.webelement.WebElement (session="010d46943c075cf130ee7ec7cb8a1d3d", element="e559e025-1e5c-40c6-aa87-a25f89ce563a")>
+15:04:21 21:14:25: Account: INFO: Element :: <selenium.webdriver.remote.webelement.WebElement (session="010d46943c075cf130ee7ec7cb8a1d3d", element="880e4761-6110-47fc-a5d1-e59d9e2ca354")>found for locator :: //button[@title='Register']
+15:04:21 21:14:26: Account: INFO: Clicked on Element : <selenium.webdriver.remote.webelement.WebElement (session="010d46943c075cf130ee7ec7cb8a1d3d", element="880e4761-6110-47fc-a5d1-e59d9e2ca354")>
+15:04:21 21:14:36: Account: INFO: Element could not be found for :: //span[text()='Thank you for registering with Main Website Store.']
+15:04:21 21:14:36: Account: WARNING: Exception occurred while executing isElementDisplayed :: exception occurred :: 'NoneType' object has no attribute 'is_displayed'
+15:04:21 21:14:38: <module>: INFO: Automation Ended
+15:04:21 21:14:38: <module>: INFO: Automation Started
+15:04:21 21:14:43: WebDriverFactory: INFO: Launching the URL :: http://live.demoguru99.com/index.php/ on browser :: Chrome
+15:04:21 21:14:43: Account: INFO: Element :: <selenium.webdriver.remote.webelement.WebElement (session="aa0fcec00ca73eb8ed3dca5c1d085691", element="aeecb589-56e7-4a68-86fa-5c84de4cbcaf")>found for locator :: //a/span[text()='Account']
+15:04:21 21:14:43: Account: INFO: Clicked on Element : <selenium.webdriver.remote.webelement.WebElement (session="aa0fcec00ca73eb8ed3dca5c1d085691", element="aeecb589-56e7-4a68-86fa-5c84de4cbcaf")>
+15:04:21 21:14:44: Account: INFO: Element :: <selenium.webdriver.remote.webelement.WebElement (session="aa0fcec00ca73eb8ed3dca5c1d085691", element="c116b7c0-000f-453f-9cf8-534b6229b85e")>found for locator :: Register
+15:04:21 21:14:45: Account: INFO: Clicked on Element : <selenium.webdriver.remote.webelement.WebElement (session="aa0fcec00ca73eb8ed3dca5c1d085691", element="c116b7c0-000f-453f-9cf8-534b6229b85e")>
+15:04:21 21:14:45: Account: INFO: Element :: <selenium.webdriver.remote.webelement.WebElement (session="aa0fcec00ca73eb8ed3dca5c1d085691", element="fdb19d0f-1262-4af3-a53f-2399840a2075")>found for locator :: firstname
+15:04:21 21:14:45: Account: INFO: Text : Test entered on locator: firstname
+15:04:21 21:14:45: Account: INFO: Element :: <selenium.webdriver.remote.webelement.WebElement (session="aa0fcec00ca73eb8ed3dca5c1d085691", element="a0fee113-10e5-44bf-9fc0-1dae2fde07f4")>found for locator :: lastname
+15:04:21 21:14:45: Account: INFO: Text : two entered on locator: lastname
+15:04:21 21:14:45: Account: INFO: Element :: <selenium.webdriver.remote.webelement.WebElement (session="aa0fcec00ca73eb8ed3dca5c1d085691", element="1de1fb87-5bc8-4e51-b99a-4e5b6b8e83e3")>found for locator :: email_address
+15:04:21 21:14:45: Account: INFO: Text : testnine@email.com entered on locator: email_address
+15:04:21 21:14:45: Account: INFO: Element :: <selenium.webdriver.remote.webelement.WebElement (session="aa0fcec00ca73eb8ed3dca5c1d085691", element="b7358b7d-d6d7-4189-83ba-d3f4beaf434d")>found for locator :: password
+15:04:21 21:14:45: Account: INFO: Text : test@12345 entered on locator: password
+15:04:21 21:14:45: Account: INFO: Element :: <selenium.webdriver.remote.webelement.WebElement (session="aa0fcec00ca73eb8ed3dca5c1d085691", element="5c6ba468-8ef5-4fe8-85f8-03effdfed6a7")>found for locator :: confirmation
+15:04:21 21:14:45: Account: INFO: Text : test@12345 entered on locator: confirmation
+15:04:21 21:14:45: Account: INFO: Element :: <selenium.webdriver.remote.webelement.WebElement (session="aa0fcec00ca73eb8ed3dca5c1d085691", element="58697e4a-9c8b-4614-949e-f625dd34c363")>found for locator :: is_subscribed
+15:04:21 21:14:45: Account: INFO: Clicked on Element : <selenium.webdriver.remote.webelement.WebElement (session="aa0fcec00ca73eb8ed3dca5c1d085691", element="58697e4a-9c8b-4614-949e-f625dd34c363")>
+15:04:21 21:14:46: Account: INFO: Element :: <selenium.webdriver.remote.webelement.WebElement (session="aa0fcec00ca73eb8ed3dca5c1d085691", element="e34d06e3-268d-45e6-90b0-c3c9be70b110")>found for locator :: //button[@title='Register']
+15:04:21 21:14:47: Account: INFO: Clicked on Element : <selenium.webdriver.remote.webelement.WebElement (session="aa0fcec00ca73eb8ed3dca5c1d085691", element="e34d06e3-268d-45e6-90b0-c3c9be70b110")>
+15:04:21 21:14:47: Account: INFO: Element :: <selenium.webdriver.remote.webelement.WebElement (session="aa0fcec00ca73eb8ed3dca5c1d085691", element="6bbd0b68-5abb-44f7-bea0-2adfccaf40d2")>found for locator :: //span[text()='Thank you for registering with Main Website Store.']
+15:04:21 21:14:47: Account: INFO: Element is displayed with locator :: //span[text()='Thank you for registering with Main Website Store.']
+15:04:21 21:14:49: <module>: INFO: Automation Ended
+15:04:21 21:14:49: <module>: INFO: Automation Started
+15:04:21 21:14:55: WebDriverFactory: INFO: Launching the URL :: http://live.demoguru99.com/index.php/ on browser :: Chrome
+15:04:21 21:14:55: Account: INFO: Element :: <selenium.webdriver.remote.webelement.WebElement (session="d7a9caa9bdc5ba83e07e006911bdd119", element="19d91367-00f4-48c0-a5c3-ab8825a46d82")>found for locator :: //a/span[text()='Account']
+15:04:21 21:14:55: Account: INFO: Clicked on Element : <selenium.webdriver.remote.webelement.WebElement (session="d7a9caa9bdc5ba83e07e006911bdd119", element="19d91367-00f4-48c0-a5c3-ab8825a46d82")>
+15:04:21 21:14:55: SeleniumDriver: INFO: Element :: <selenium.webdriver.remote.webelement.WebElement (session="d7a9caa9bdc5ba83e07e006911bdd119", element="d0adc9fc-8215-44ad-aeb2-a80447ceab5f")>found for locator :: Log In
+15:04:21 21:14:56: SeleniumDriver: INFO: Clicked on Element : <selenium.webdriver.remote.webelement.WebElement (session="d7a9caa9bdc5ba83e07e006911bdd119", element="d0adc9fc-8215-44ad-aeb2-a80447ceab5f")>
+15:04:21 21:14:56: SeleniumDriver: INFO: Element :: <selenium.webdriver.remote.webelement.WebElement (session="d7a9caa9bdc5ba83e07e006911bdd119", element="188273fe-6ffe-4b32-8172-c45999b396b2")>found for locator :: //input[@title='Email Address']
+15:04:21 21:14:56: SeleniumDriver: INFO: Text : testeight@email.com entered on locator: //input[@title='Email Address']
+15:04:21 21:14:56: SeleniumDriver: INFO: Element :: <selenium.webdriver.remote.webelement.WebElement (session="d7a9caa9bdc5ba83e07e006911bdd119", element="03482855-572e-4b8e-b89c-3169ae3cbfe5")>found for locator :: pass
+15:04:21 21:14:56: SeleniumDriver: INFO: Text : test@12345 entered on locator: pass
+15:04:21 21:14:56: SeleniumDriver: INFO: Element :: <selenium.webdriver.remote.webelement.WebElement (session="d7a9caa9bdc5ba83e07e006911bdd119", element="7c470ff3-33a8-4fa6-b06f-df76bedda66d")>found for locator :: send2
+15:04:21 21:14:58: SeleniumDriver: INFO: Clicked on Element : <selenium.webdriver.remote.webelement.WebElement (session="d7a9caa9bdc5ba83e07e006911bdd119", element="7c470ff3-33a8-4fa6-b06f-df76bedda66d")>
+15:04:21 21:14:58: SeleniumDriver: INFO: Element :: <selenium.webdriver.remote.webelement.WebElement (session="d7a9caa9bdc5ba83e07e006911bdd119", element="4aac33f9-40b1-4039-92b8-9679126d6d5f")>found for locator :: //h1[text()='My Dashboard']
+15:04:21 21:14:58: SeleniumDriver: INFO: Element is displayed with locator :: //h1[text()='My Dashboard']
+15:04:21 21:15:01: <module>: INFO: Automation Ended
+16:04:21 19:42:51: <module>: INFO: Automation Started
+16:04:21 19:43:02: WebDriverFactory: INFO: Launching the URL :: http://live.demoguru99.com/index.php/ on browser :: Chrome
+16:04:21 19:43:05: <module>: INFO: Automation Ended
+16:04:21 19:45:14: <module>: INFO: Automation Started
+16:04:21 19:45:20: WebDriverFactory: INFO: Launching the URL :: http://live.demoguru99.com/index.php/ on browser :: Chrome
+16:04:21 19:45:22: <module>: INFO: Automation Ended
+16:04:21 20:10:24: <module>: INFO: Automation Started
+16:04:21 20:10:30: WebDriverFactory: INFO: Launching the URL :: http://live.demoguru99.com/index.php/ on browser :: Chrome
+16:04:21 20:10:32: <module>: INFO: Automation Ended
+16:04:21 20:10:32: <module>: INFO: Automation Started
+16:04:21 20:10:38: WebDriverFactory: INFO: Launching the URL :: http://live.demoguru99.com/index.php/ on browser :: Chrome
+16:04:21 20:10:40: <module>: INFO: Automation Ended
+16:04:21 20:10:40: <module>: INFO: Automation Started
+16:04:21 20:10:46: WebDriverFactory: INFO: Launching the URL :: http://live.demoguru99.com/index.php/ on browser :: Chrome
+16:04:21 20:10:48: <module>: INFO: Automation Ended
+16:04:21 20:11:08: <module>: INFO: Automation Started
+16:04:21 20:11:14: WebDriverFactory: INFO: Launching the URL :: http://live.demoguru99.com/index.php/ on browser :: Chrome
+16:04:21 20:11:14: Account: INFO: Element :: <selenium.webdriver.remote.webelement.WebElement (session="342535caa35aa7def31e69af7ecb9898", element="b344a386-dbe4-4e54-bfb7-7dc76a2ee103")>found for locator :: //a/span[text()='Account']
+16:04:21 20:11:14: Account: INFO: Clicked on Element : <selenium.webdriver.remote.webelement.WebElement (session="342535caa35aa7def31e69af7ecb9898", element="b344a386-dbe4-4e54-bfb7-7dc76a2ee103")>
+16:04:21 20:11:14: Account: INFO: Element :: <selenium.webdriver.remote.webelement.WebElement (session="342535caa35aa7def31e69af7ecb9898", element="f342bea4-cd3c-446b-9752-bc96d0808f50")>found for locator :: Register
+16:04:21 20:11:15: Account: INFO: Clicked on Element : <selenium.webdriver.remote.webelement.WebElement (session="342535caa35aa7def31e69af7ecb9898", element="f342bea4-cd3c-446b-9752-bc96d0808f50")>
+16:04:21 20:11:15: Account: INFO: Element :: <selenium.webdriver.remote.webelement.WebElement (session="342535caa35aa7def31e69af7ecb9898", element="e8c605ff-3470-4efb-9c6b-fd6f7eaf6fc8")>found for locator :: firstname
+16:04:21 20:11:15: Account: INFO: Text : Test entered on locator: firstname
+16:04:21 20:11:15: Account: INFO: Element :: <selenium.webdriver.remote.webelement.WebElement (session="342535caa35aa7def31e69af7ecb9898", element="63175318-0ffc-4a98-a8f2-03b0e759dcf7")>found for locator :: lastname
+16:04:21 20:11:16: Account: INFO: Text : one entered on locator: lastname
+16:04:21 20:11:16: Account: INFO: Element :: <selenium.webdriver.remote.webelement.WebElement (session="342535caa35aa7def31e69af7ecb9898", element="335d1a9d-7340-465b-a17a-4df4a8957252")>found for locator :: email_address
+16:04:21 20:11:16: Account: INFO: Text : testeight@email.com entered on locator: email_address
+16:04:21 20:11:16: Account: INFO: Element :: <selenium.webdriver.remote.webelement.WebElement (session="342535caa35aa7def31e69af7ecb9898", element="244f729a-eba3-4e56-bea9-59f3da1f3996")>found for locator :: password
+16:04:21 20:11:16: Account: INFO: Text : test@12345 entered on locator: password
+16:04:21 20:11:16: Account: INFO: Element :: <selenium.webdriver.remote.webelement.WebElement (session="342535caa35aa7def31e69af7ecb9898", element="011babb4-9618-4490-9ebd-7bc034bbb310")>found for locator :: confirmation
+16:04:21 20:11:16: Account: INFO: Text : test@12345 entered on locator: confirmation
+16:04:21 20:11:16: Account: INFO: Element :: <selenium.webdriver.remote.webelement.WebElement (session="342535caa35aa7def31e69af7ecb9898", element="89da4a0d-84df-4992-a826-e97753486107")>found for locator :: is_subscribed
+16:04:21 20:11:16: Account: INFO: Clicked on Element : <selenium.webdriver.remote.webelement.WebElement (session="342535caa35aa7def31e69af7ecb9898", element="89da4a0d-84df-4992-a826-e97753486107")>
+16:04:21 20:11:16: Account: INFO: Element :: <selenium.webdriver.remote.webelement.WebElement (session="342535caa35aa7def31e69af7ecb9898", element="83ea63bb-fa93-4b67-bb3d-857025f124e6")>found for locator :: //button[@title='Register']
+16:04:21 20:11:17: Account: INFO: Clicked on Element : <selenium.webdriver.remote.webelement.WebElement (session="342535caa35aa7def31e69af7ecb9898", element="83ea63bb-fa93-4b67-bb3d-857025f124e6")>
+16:04:21 20:11:27: Account: INFO: Element could not be found for :: //span[text()='Thank you for registering with Main Website Store.']
+16:04:21 20:11:27: Account: WARNING: Exception occurred while executing isElementDisplayed :: exception occurred :: 'NoneType' object has no attribute 'is_displayed'
+16:04:21 20:11:30: <module>: INFO: Automation Ended
+16:04:21 20:11:30: <module>: INFO: Automation Started
+16:04:21 20:11:36: WebDriverFactory: INFO: Launching the URL :: http://live.demoguru99.com/index.php/ on browser :: Chrome
+16:04:21 20:11:36: Account: INFO: Element :: <selenium.webdriver.remote.webelement.WebElement (session="78534de96ed4e0250c326ad3390a133d", element="a87f98d8-1266-4a66-a2dd-a6fff7adcabf")>found for locator :: //a/span[text()='Account']
+16:04:21 20:11:36: Account: INFO: Clicked on Element : <selenium.webdriver.remote.webelement.WebElement (session="78534de96ed4e0250c326ad3390a133d", element="a87f98d8-1266-4a66-a2dd-a6fff7adcabf")>
+16:04:21 20:11:36: Account: INFO: Element :: <selenium.webdriver.remote.webelement.WebElement (session="78534de96ed4e0250c326ad3390a133d", element="383667a2-453c-46c3-a7f0-5377df2153e9")>found for locator :: Register
+16:04:21 20:11:37: Account: INFO: Clicked on Element : <selenium.webdriver.remote.webelement.WebElement (session="78534de96ed4e0250c326ad3390a133d", element="383667a2-453c-46c3-a7f0-5377df2153e9")>
+16:04:21 20:11:37: Account: INFO: Element :: <selenium.webdriver.remote.webelement.WebElement (session="78534de96ed4e0250c326ad3390a133d", element="a1194ea5-b3d6-46ee-93ff-d37bafcf2ae4")>found for locator :: firstname
+16:04:21 20:11:37: Account: INFO: Text : Test entered on locator: firstname
+16:04:21 20:11:37: Account: INFO: Element :: <selenium.webdriver.remote.webelement.WebElement (session="78534de96ed4e0250c326ad3390a133d", element="6ca5ed3d-709a-4d30-a08f-a56e464aa8ca")>found for locator :: lastname
+16:04:21 20:11:37: Account: INFO: Text : two entered on locator: lastname
+16:04:21 20:11:37: Account: INFO: Element :: <selenium.webdriver.remote.webelement.WebElement (session="78534de96ed4e0250c326ad3390a133d", element="08509db7-d23a-4ca3-91a6-d04b71bcd952")>found for locator :: email_address
+16:04:21 20:11:37: Account: INFO: Text : testnine@email.com entered on locator: email_address
+16:04:21 20:11:37: Account: INFO: Element :: <selenium.webdriver.remote.webelement.WebElement (session="78534de96ed4e0250c326ad3390a133d", element="74aff1b9-8d71-420e-b95b-ceb551d40737")>found for locator :: password
+16:04:21 20:11:37: Account: INFO: Text : test@12345 entered on locator: password
+16:04:21 20:11:37: Account: INFO: Element :: <selenium.webdriver.remote.webelement.WebElement (session="78534de96ed4e0250c326ad3390a133d", element="186fc18f-60af-4f55-a616-03a9482ba363")>found for locator :: confirmation
+16:04:21 20:11:37: Account: INFO: Text : test@12345 entered on locator: confirmation
+16:04:21 20:11:37: Account: INFO: Element :: <selenium.webdriver.remote.webelement.WebElement (session="78534de96ed4e0250c326ad3390a133d", element="4ab5d21e-938d-4e12-84ee-e005e248ff2f")>found for locator :: is_subscribed
+16:04:21 20:11:37: Account: INFO: Clicked on Element : <selenium.webdriver.remote.webelement.WebElement (session="78534de96ed4e0250c326ad3390a133d", element="4ab5d21e-938d-4e12-84ee-e005e248ff2f")>
+16:04:21 20:11:37: Account: INFO: Element :: <selenium.webdriver.remote.webelement.WebElement (session="78534de96ed4e0250c326ad3390a133d", element="fd7e9c81-8656-4378-9a75-7b314c513c72")>found for locator :: //button[@title='Register']
+16:04:21 20:11:39: Account: INFO: Clicked on Element : <selenium.webdriver.remote.webelement.WebElement (session="78534de96ed4e0250c326ad3390a133d", element="fd7e9c81-8656-4378-9a75-7b314c513c72")>
+16:04:21 20:11:49: Account: INFO: Element could not be found for :: //span[text()='Thank you for registering with Main Website Store.']
+16:04:21 20:11:49: Account: WARNING: Exception occurred while executing isElementDisplayed :: exception occurred :: 'NoneType' object has no attribute 'is_displayed'
